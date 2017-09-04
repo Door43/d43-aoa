@@ -1,0 +1,46 @@
+====== Luke 03:5-6*F ======
+
+===== TFT: =====
+
+<usfm> \v 5 \add Just like people\add* level off all the places where the land rises and \add just like they\add* fill all the ravines, \pi and \add just like people\add* make the road straight wherever it is crooked, \pi and \add just like people\add* make smooth the bumps in the road, \pi \add Similarly you need to remove all the obstacles which prevent God from blessing you!\add* \pi \v 6 Then people \f + \ft synecdoche \f* everywhere will understand how God can save \f + \ft metonymy \f* \add people\add*. \p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 5 Every valley will be filled, \q1 And every mountain and hill will be made level; \q1 The crooked roads will become straight, \q1 And the rough ways will be made smooth. \q1 \v 6 Then everyone will see God's way of saving people."
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \q1 \v 5 Every valley will be filled, \q1 every mountain and hill will be made level, \q1 the crooked roads will become straight, \q1 And the rough ways will be made smooth. \q1 \v 6 All people will see the salvation of God.'" </usfm>
+
+===== Target ULB: =====
+5 Todo vale será aterrado, toda montanha e colina serão niveladas, as ruas tortuosas serão endireitados e as estradas acidentadas serão aplanadas. 6 E todas as pessoas verão a salvação de Deus.” 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:salvation|salvation]]
+  * [[:aoa:bible:notes:key-terms:god|God]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (The quote from Isaiah's prophecy continues.)
+  * <font inherit/inherit;;#B22222;;inherit>(A citação da profecia de Isaías continua.)​</font>
+  * **Every valley will be filled**  - This could also be translated as "They will fill in every low place in the road." When people prepare the road for an important person who is coming, they fill in the low places with dirt so that the road will be level. This is part of the metaphor started in the previous verse. (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** Todo o vale será preenchido  ** - Isso também poderia ser traduzido como: " Eles irão preencher cada lugar baixo na estrada. " Quando as pessoas preparam o caminho para uma pessoa importante que vem, eles preenchem os lugares baixos com a barro de modo que o caminho seja nívelado. Esta é parte da metáfora que começou no verso anterior . (Veja : Metáfora)</font>
+  * **Every mountain and hill will be made level**  - This could also be translated as "They will level every mountain and hill" or "They will remove every high place in the the road."
+  * <font inherit/inherit;;#B22222;;inherit>** Cada montanha e colina serão niveladas  ** - Isso também poderia ser​ traduzido como: " Eles vão nivelar toda montanha e colina " ou "Eles vão remover todos os lugares altos na estrada."</font>
+  * **see the salvation of God**  - This could be translated as "learn about how God saves people from sin."
+  * <font inherit/inherit;;#B22222;;inherit>** verá a salvação de Deus  ** - Isso poderia ser traduzido como: "aprende como Deus salva as pessoas do pecado."</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:03:03|<<]] | [[:aoa:bible:notes:luk:03:07|>>]]**
+
+~~DISCUSSION~~{{tag>draft salvation}}
+
+~~NOCACHE~~

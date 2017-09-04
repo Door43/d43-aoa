@@ -1,0 +1,49 @@
+====== Luke 08:19-21-F ======
+
+===== TFT: =====
+
+<usfm> \v 19 \add One day Jesus'\add* mother and his \add younger\add* brothers came to see him, but they could not get near him because there was a large crowd \add around him in the house\add*. \v 20 Someone told him, "Your mother and your \add younger\add* brothers are standing outside, wanting to see you." \v 21 He replied, "Those who hear God's message and obey it are \add as dear to me\add* \f + \ft metaphor \f* as my mother and my brothers."
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 19 One day Jesus' mother and brothers came to see him, but they could not get near to him because there was such a large crowd around him in the house where he was. \v 20 Then someone told him, "Your mother and your brothers have been standing outside, wanting to see you." \v 21 But he replied to them, "Those who hear God's word and obey it are as dear to me as my mother and my brothers."
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 19 Then Jesus' mother and brothers came to him, but they could not come near him because of the crowd. \v 20 And it was told him, "Your mother and your brothers are standing outside, desiring to see you." \v 21 But Jesus answered and said to them, "My mother and my brothers are those who hear the word of God, and obey it." </usfm>
+
+===== Target ULB=====
+
+19 Então a mãe e os irmãos de Jesus vieram até ele, mas não podiam se aproximar por causa da multidão. 20 E disseram a ele: “Sua mãe e seus irmãos estão do lado de fora, esperando para ver você.” 21 Mas Jesus disse a eles: “Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus e a obedece.” 
+=====
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:brother|brother]]
+  * [[:aoa:bible:notes:key-terms:wordofgod|word of God]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **brothers**  - These were Jesus' younger brothers.
+  * <font inherit/inherit;;#B22222;;inherit>** irmãos ** - Estes eram os irmãos menores de Jesus.</font>
+  * **it was told him**  - "people told him" or "someone told him"
+  * <font inherit/inherit;;#B22222;;inherit>** disseram a ele ** - "pessoas disseram a ele" ou "alguém disse a ele".</font>
+  * **desiring to see you**  - "waiting to see you" or "and they want to see you"
+  * <font inherit/inherit;;#B22222;;inherit>** desejando te ver  ** - "esperando para ver você" ou "e eles querem ver você".</font>
+  * **My mother and my brothers are those who hear the word of God, and obey it.**  - This metaphor can be translated as a simile: "Those who hear the word of God and obey it are like a mother and brothers to me" or "Those who hear the word of God and obey it are as important to me as my mother and brothers." (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** Minha mãe e meus irmãos são aqueles que escutam a palavra de Deus e a obedece  ** - Esta metáfora pode ser traduzida como uma símile: "Aqueles que escutam a palavra de Deus e a obedece são como uma mãe e irmãos para mim" ou "Aqueles que escutam a palavra de Deus e a obedece são tão importantes para mim quanto minha mãe e meus irmãos".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:08:16|<<]] | [[:aoa:bible:notes:luk:08:22|>>]]**
+
+~~DISCUSSION~~{{tag>draft brother obey}}
+
+~~NOCACHE~~

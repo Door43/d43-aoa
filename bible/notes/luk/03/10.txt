@@ -1,0 +1,41 @@
+====== Luke 03:10-11*F ======
+
+===== TFT: =====
+
+<usfm> \v 10 \add Then\add* various ones in the crowd asked him, "What shall we\add \f + \ft exclusive \f*\add* do \add to escape God punishing us\add* (OR), \add to show that we have repented\add*?" \v 11 He answered them, "If any of you has two shirts, you should give one of them to someone who has no shirt. If any of you has \add plenty of\add* food, you should give some to those who have no food." </usfm>
+
+===== UDB: =====
+
+<usfm> \v 10 Then some of the people in the crowd asked him, "What, then, should we do?" \v 11 He answered them, "If any of you has two shirts, you should give one of them to someone who does not have a shirt. If any of you has plenty of food, you should give some to those who do not have food." </usfm>
+
+===== ULB: =====
+
+<usfm> \v 10 Then the people in the crowd asked him, saying, "What then must we do?" \v 11 He answered and said to them, "If someone has two tunics, he should give one of them to someone who does not have any and whoever has food should do likewise." </usfm>
+
+===== Target ULB: =====
+10 Então as pessoas na multidão perguntaram a ele, “O que devemos fazer então?” 11 Ele respondeu, “Se alguém tem duas túnicas que dê uma delas àquele que não tem nenhuma, e o que tiver comida que faça o mesmo.” 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:tunic|tunic]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **asked him, saying**  - "asked him and said" or "asked John"
+  * <font inherit/inherit;;#B22222;;inherit>** perguntou a ele, dizendo  ** - "perguntou a ele e disse" ou "perguntou a João".</font>
+  * **answered and said to them**  - "answered them, saying" or "answered them" or "said"
+  * <font inherit/inherit;;#B22222;;inherit>** respondeu e disse para eles  ** - "respondeu-os, dizendo" ou "respondeu a eles" ou "disse".</font>
+  * **do likewise**  - "do the same thing." It can be translated here as "give food to someone who does not have any."
+  * <font inherit/inherit;;#B22222;;inherit>** faça da mesma forma  ** - "faça a mesma coisa". Isto pode ser traduzido aqui como "dê comida para aquele que não tem nada".</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:03:09|<<]] | [[:aoa:bible:notes:luk:03:12|>>]]**
+
+~~DISCUSSION~~{{tag>draft tunic}}
+
+~~NOCACHE~~

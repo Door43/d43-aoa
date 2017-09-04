@@ -1,0 +1,52 @@
+====== Luke 11:3-4-F ======
+
+===== TFT: =====
+
+<usfm> \v 3 Give us\add \f + \ft exclusive \f*\add* each day the food \f + \ft synecdoche \f* that we need. \v 4 Forgive us \add for\add* the wrong things that we have done, because we forgive people for the wrong things that they do to us. Do not let us do wrong things when we are tempted \f + \ft Or:\add someone or something\add* tempts us \f*.'" \p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 3 Please give us each day the food that we need. \v 4 Please forgive us for the wrong things that we have done, just as we ourselves must forgive people for the wrong things that they do to us. Help us to not sin when we are tempted.'"
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 3 Give us each day our daily bread. \v 4 Forgive us our sins, for we ourselves forgive everyone who is in debt to us. Do not lead us into temptation.'" </usfm>
+
+===== Target ULB: =====
+
+3 Dê-nos o pão que diariamente precisamos. 4 Perdoa os nossos pecados, pois nós mesmos perdoamos aqueles que estão em débito conosco. Não permita que caiamos em tentação, mas nos livra do maligno. 
+
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:bread|bread]]
+  * [[:aoa:bible:notes:key-terms:forgive|forgive]]
+  * [[:aoa:bible:notes:key-terms:sin|sin]]
+  * [[:aoa:bible:notes:key-terms:tempt|temptation]]
+
+===== Translation Notes: =====
+
+  * (Jesus continues to teach his disciples how to pray)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar seus discípulos como orar)</font>
+  * **our daily bread**  - This can be translated as "the food we need each day." Bread was in inexpensive food that people ate everyday. It is used here to refer to food in general.
+  * <font inherit/inherit;;#B22222;;inherit>** nosso pão de cada dia ** - Isto pode ser traduzido como "o alimento que precisamos a cada dia." O pão era uma comida barata que as pessoas comiam todos os dias. Ele é usado aqui para se referir aos alimentos em geral.</font>
+  * **forgive us our sins**  - "Forgive us for sinning against you" or "Forgive our sins"
+  * <font inherit/inherit;;#B22222;;inherit>** perdoa-no os nossos pecados ** - "Perdoa-nos por pecarmos contra você" ou "Perdoa o nossos pecados"</font>
+  * **for we ourselves forgive**  - "since we also forgive"
+  * <font inherit/inherit;;#B22222;;inherit>** pois nós mesmos perdoamos ** - "já que nós também perdoamos"</font>
+  * **who is in debt to us**  - "who have sinned against us" or "who have done wrong things to us"
+  * <font inherit/inherit;;#B22222;;inherit>** quem está em débito conosco  ** - "que têm pecado contra nós" ou "que têm feito coisas erradas a nós"</font>
+  * **Do not lead us into temptation**  - This is a figure of speech that means "Lead us away from temptation." (See: [[:en:ta:figuresofspeech:litotes|litotes]])
+  * <font inherit/inherit;;#B22222;;inherit>** Não nos leve à tentação  ** - Esta é uma figura de linguagem que significa "Leve-nos para longe da tentação." (Veja: lítotes)</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:11:02|<<]] | [[:aoa:bible:notes:luk:11:05|>>]]**
+
+~~DISCUSSION~~{{tag>draft bread forgive tempt}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Luke 01:39-41*F ======
+
+===== TFT: =====
+
+<usfm> \v 39 Very soon after that, Mary got ready and went quickly to a town in the highlands of Judea \add district\add* where Zechariah lived. \v 40 She entered his house and greeted \add his wife\add* Elizabeth. \v 41 As soon as Elizabeth heard Mary greet her, the baby leaped inside \add Elizabeth's\add* womb. The Holy Spirit took complete control of Elizabeth, </usfm>
+
+===== UDB: =====
+
+<usfm> \v 39 Very soon after that, Mary got ready and went quickly to the highlands of Judea, to the city where Zechariah lived. \v 40 She entered his house and greeted his wife Elizabeth. \v 41 As soon as Elizabeth heard Mary greet her, the baby leaped inside Elizabeth's womb. Immediately the Holy Spirit guided Elizabeth to start praising God. </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 39 Now in those days Mary got up and hurried to the hill country, to a city in Judea, \v 40 where she went into Zechariah's house and greeted Elizabeth. \v 41 As Elizabeth heard Mary's greeting, the baby in her womb leaped; and Elizabeth was filled with the Holy Spirit. </usfm>
+
+===== Target ULB: =====
+39 Naqueles dias, Maria se preparou e foi apressadamente para uma área de colinas em uma cidade da Judeia 40 , onde ela entrou na casa de Zacarias e saudou Isabel.  41 Quando Isabel ouviu a saudação de Maria, o bebê moveu-se de alegria no seu ventre; e Isabel ficou cheia do Espírito Santo. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:mary|Mary]]
+  * [[:aoa:bible:notes:key-terms:judea|Judea]]
+  * [[:aoa:bible:notes:key-terms:zechariahnt|Zechariah]]
+  * [[:aoa:bible:notes:key-terms:elizabeth|Elizabeth]]
+  * [[:aoa:bible:notes:key-terms:filled|filled with the Spirit]]
+  * [[:aoa:bible:notes:key-terms:holyspirit|Holy Spirit]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **Now**  – This word introduces a new part of the story. Consider how your language does this. Some translations might not use an introductory word here.
+  * <font inherit/inherit;;#B22222;;inherit>** agora ** - Esta palavra introduz uma nova parte da história. Considere como sua língua faz isso. Algumas traduções talvez não usem uma palavra introdutória nesses casos.</font>
+  * **got up**  – This could be translated as "started out" or "got ready."
+  * <font inherit/inherit;;#B22222;;inherit>** se levantou ** - Isto pode ser traduzido como "começou" ou "se aprontou".</font>
+  * **the hill country**  – "the hilly area" or "the highlands" or "the mountainous part of Israel"
+  * <font inherit/inherit;;#B22222;;inherit>** a região montanhosa ** - "a área montanhosa" ou "as terras elevadass" ou "a região montanhosa de Israel".</font>
+  * **where she went**  – This could be translated as "and she went" or "When she arrived, she went."
+  * <font inherit/inherit;;#B22222;;inherit>** onde ela foi ** - Isto pode ser traduzido como: "a medida que ela foi" ou "quando ela chegou, ela foi".</font>
+  * **leaped**  - "moved suddenly"
+  * <font inherit/inherit;;#B22222;;inherit>** saltou ** - "moveu-se de repente".</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:01:36|<<]] | [[:aoa:bible:notes:luk:01:42|>>]]**
+
+~~DISCUSSION~~{{tag>draft mary zechariahnt Elizabeth filled holyspirit}}
+
+~~NOCACHE~~

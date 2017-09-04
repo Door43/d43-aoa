@@ -1,0 +1,38 @@
+====== Luke 08:30-31-F ======
+
+===== TFT: =====
+
+<usfm> \v 30 \add In order to expel the demon more easily\add*, Jesus asked \add the demon\add*, "What is your\add \f + \ft singular \f*\add* name?" He replied, "My name is Crowd\f + \ft Or: Mob \f*." \add He said that\add* because many demons had entered that man. \v 31 \add The demons\add* kept begging \add Jesus\add* that he would not command them to go into the deep place \add where God punishes demons\add*. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 30 Then Jesus asked him, "What is your name?" He replied, “My name is Thousands.” He said that because many demons had entered that man. \v 31 The demons kept begging Jesus not to command them to go into the deep pit where God punishes demons. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 30 Then Jesus asked him, "What is your name?" And he said, "Army," for many demons had entered into him. \v 31 They kept imploring him that he would not command them to depart into the abyss. </usfm>
+30 Então Jesus perguntou a ele: “Qual é o seu nome?” E ele disse: “Legião”, porque muitos demônios haviam entrado nele. 31 Eles imploravam para que ele não os ordenassem para o abismo. 
+-----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:demon|demon]]
+  * [[:aoa:bible:notes:key-terms:abyss|abyss]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **Army**  - Translate this with a word that refers to a large number of soldiers or people. It could also be translated as "Battalion" or "Brigade."
+  * <font inherit/inherit;;#B22222;;inherit>** Exército  ** - Traduza isto com uma palavra que se refira a um grande número de soldados ou pessoas. Isto também poderia ser traduzido como "Batalhão" ou "Brigada".</font>
+  * **to depart into the abyss**  - "to leave the man and go into the abyss"
+  * <font inherit/inherit;;#B22222;;inherit>** partir para o abismo ** - "deixar o homem e ir para o abismo".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:08:28|<<]] | [[:aoa:bible:notes:luk:08:32|>>]]**
+
+~~DISCUSSION~~{{tag>draft demon abyss}}
+
+~~NOCACHE~~

@@ -1,0 +1,47 @@
+====== Luke 09:57-58/  *F ======
+
+===== TFT: =====
+
+<usfm> \v 57 As Jesus and the disciples were walking along the road, one man said to him, "I will go with you\add \f + \ft singular \f*\add* wherever you go!" \v 58 \add In order that the man might know what he could expect if he went with him\add*, Jesus said to him, "Foxes have holes \add in the ground in which to live\add*, and birds have nests, but \add even though I am\add* the one who came from heaven, I do not have a home where I can sleep!" </usfm>
+
+===== UDB: =====
+
+<usfm> \v 57 As Jesus and the disciples were walking along the road, someone said to him, "I will go with you wherever you go!" \v 58 Jesus replied, "Foxes have holes in the ground to live in, and birds have nests, but I, the Son of Man, do not have a home to sleep in!" </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 57 As they were going on their way, someone said to him, "I will follow you wherever you go." \v 58 Jesus said to him, "Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head." </usfm>
+
+===== Target ULB: =====
+
+57 Enquanto iam pelo caminho, alguém lhe falou: “Eu te seguirei onde quer que fores.” 58 Jesus disse a ele: “As raposas tem suas tocas e os pássaros do céu seus ninhos, mas o Filho do homem não tem onde reclinar a cabeça.” 
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:sonofman|Son of Man]]
+
+===== Translation Notes: =====
+
+  * **someone**  - This was not one of the disciples.
+  * <font inherit/inherit;;#B22222;;inherit>** alguém  ** - Este não era um dos discípulos.</font>
+  * **Foxes have holes…nowhere to lay his head**  - Jesus was implying that if the the man were to follow him, that man too might not have a home. The implied information can be made explicit: "So do not expect that you will have a home." (See: [[:en:ta:discourse:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** Raposas tem tocas…nenhum lugar para reclinar sua cabeça  ** - Jesus estava sugerindo que se o homem fosse segui-lo, aquele homem também poderia não ter uma casa. A informação implícita pode ficar explícita: "Então, não espere que você vá ter uma casa." (Veja: Informação Explícita e Implícita)</font>
+  * **Foxes**  - These are land animals similar to small dogs. They sleep in a den or a burrow in the ground.
+  * <font inherit/inherit;;#B22222;;inherit>** Raposas  ** - Estes são animais terrestres semelhantes a cães pequenos. Eles dormem em um covil ou uma toca no chão.</font>
+  * **birds of the sky**  - "birds that fly in the air"
+  * <font inherit/inherit;;#B22222;;inherit>** pássaros do céu  ** - "pássaros que voam no ar"</font>
+  * **Son of Man**  - Jesus is speaking about himself in the third person. This could be translated as "I, the Son of Man." (See: [[:en:ta:vocabulary:123person|123person]])
+  * <font inherit/inherit;;#B22222;;inherit>** Filho do Homem  ** - Jesus está falando sobre si mesmo na terceira pessoa. Isto pode ser traduzido como "Eu, o Filho do Homem." (Veja: 123pessoa)</font>
+  * **nowhere to lay his head**  - "nowhere to rest my head" or "nowhere to sleep." This is a hyperbole. Jesus is exaggerating in order to get across the point that he was not welcome anywhere to live. (See: [[:en:ta:figuresofspeech:hyperbole|hyperbole]])
+  * <font inherit/inherit;;#B22222;;inherit>** nenhum lugar para reclinar sua cabeça  ** - "nenhum lugar para descansar minha cabeça" ou "nenhum lugar para dormir." Esta é uma hipérbole. Jesus está exagerando a fim de transmitir o fato de que ele não seria bem-vindo em qualquer lugar para viver. (Veja: hipérbole)</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:09:54|<<]] | [[:aoa:bible:notes:luk:09:59|>>]]**
+
+~~DISCUSSION~~{{tag>draft sonofman}}
+
+~~NOCACHE~~

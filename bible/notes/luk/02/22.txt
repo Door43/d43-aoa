@@ -1,0 +1,62 @@
+====== Luke 02:22-24*F ======
+
+===== TFT: =====
+
+<usfm> \v 22-23 It had been written by Moses \f + \ft Or:Moses had written \f* \add long ago\add* in a law that God gave him, that when a woman gave birth to her first son, the parents had to take him \add to the Temple\add* in Jerusalem in order that they might dedicate him to the Lord\f + \ft Or: to God \f*. So when the time came for them to do those rituals so that \add God would consider\add* them pure again, Mary and Joseph took Jesus there. \v 24 God had commanded in his laws that if the first child \add of a couple\add* was a boy, his parents should offer as a sacrifice to God two turtledoves or two young pigeons. \add So Joseph and Mary gave the priest two birds so he could offer them\add*.
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 22 When the required number of days for their purification had gone by, according to the law of Moses, Mary and Joseph traveled up to Jerusalem to dedicate their son to the Lord. \v 23 It had been written in the law of the Lord, "Every male offspring that is the first to be born will be set apart to be holy to the Lord." \v 24 The law of the Lord also said the parents of a newborn son must offer as a sacrifice, "Two turtledoves or two young pigeons."
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 22 When the required number of days for their purification had passed, according to the law of Moses, Joseph and Mary brought their infant son up to the temple in Jerusalem to present him to the Lord. \v 23 As it is written in the law of the Lord, "Every male that opens the womb will be called holy to the Lord." \v 24 They also came to offer a sacrifice according to that which is said in the law of the Lord, "a pair of turtledoves or two young pigeons." </usfm>
+
+===== Target ULB: =====
+22 Quando o número de dias requeridos para que eles se purificassem se passaram, de acordo com a lei de Moisés, José e Maria levaram o bebê até o templo em Jerusalém para apresentá-lo ao Senhor. 23 Pois estava escrito na lei do Senhor “Todo menino nascido primogênito deve ser santificado ao Senhor”. 24 De acordo a lei do Senhor, eles também deviam ofertar “duas rolas ou dois pombinhos” como sacrifício. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:purify|purification]]
+  * [[:aoa:bible:notes:key-terms:written|written]]
+  * [[:aoa:bible:notes:key-terms:lawofmoses|law of Moses]]
+  * [[:aoa:bible:notes:key-terms:josephnt|Joseph]]
+  * [[:aoa:bible:notes:key-terms:mary|Mary]]
+  * [[:aoa:bible:notes:key-terms:temple|temple]]
+  * [[:aoa:bible:notes:key-terms:jerusalem|Jerusalem]]
+  * [[:aoa:bible:notes:key-terms:lord|Lord]]
+  * [[:aoa:bible:notes:key-terms:lawofmoses|law of the Lord]]
+  * [[:aoa:bible:notes:key-terms:offer|offer]]
+  * [[:aoa:bible:notes:key-terms:holy|holy]]
+  * [[:aoa:bible:notes:key-terms:sacrifice|sacrifice]]
+
+===== Translation Notes: =====
+
+  * **the required number of days**  - This could be translated as "the number of days that God required."
+  * <font inherit/inherit;;#B22222;;inherit>** o número de dias requeridos  ** - Isto pode ser traduzido como "o número de dias que Deus requereu."</font>
+  * **for their purification**  - "for them to become ceremonially clean" or "for God to consider them to be clean again"
+  * <font inherit/inherit;;#B22222;;inherit>** para a purificação deles  ** - "para que eles se tornem cerimonialmente limpos" ou "para que Deus os considerasse limpos novamente"</font>
+  * **to present him to the Lord**  - "to bring him to the Lord" or "to bring him into the Lord's presence." This was a ceremony acknowledging God's claim on the firstborn children who were male.
+  * <font inherit/inherit;;#B22222;;inherit>** para apresentá-lo ao Senhor  ** - "para trazê-lo ao Senhor" ou "para trazê-lo à presença do Senhor." Esta era uma cerimônia reconhecendo a reivindicação de Deus sobre o filho primogênito que era homem.</font>
+  * **As it is written**  - This could be translated as "They did this because it is written."
+  * <font inherit/inherit;;#B22222;;inherit>** Como está escrito  ** - Isto pode ser traduzido como "Eles fizeram isto porque está escrito."</font>
+  * **male that opens the womb**  - This is an idiom for "firstborn offspring that is a male." The law was about the firstborn offspring of both people and domestic animals, but in this context it could be translated as "firstborn son." (See: [[:en:ta:translate:idiom|Idiom]])
+  * <font inherit/inherit;;#B22222;;inherit>** macho que abre o ventre  ** - Esta é uma expressão idiomática para "descendente primogênito que é macho." A lei era acerca do descendente primogênito de ambos, pessoas e animais domésticos, mas neste contexto isto pode ser traduzido como "filho primogênito." (Veja: Expressão Idiomática)</font>
+  * **turtledoves**  - These are common birds that eat seeds and often live in open areas. They are small enough to be held in two hands, and people would eat them.
+  * <font inherit/inherit;;#B22222;;inherit>** rolas  ** - Estes são pássaros comuns que comem sementes e geralmente vivem em áreas abertas. Eles são pequenos o suficiente para serem segurados com as duas mãos, e pessoas comeriam eles.</font>
+  * **young pigeons**  - These are birds that eat seeds and often live in hilly or mountain areas. They are small enough to be held in two hands, and people would eat them.
+  * <font 14px line-height: 15.6800003051758px/inherit;;#B22222;;inherit>** pombinhos  ** - Estes são pássaros que comem sementes e geralmente vivem colinas ou áreas montanhosas. Eles são pequenos o suficiente para serem segurados com as duas mãos, e pessoas comeriam eles.</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:02:21|<<]] | [[:aoa:bible:notes:luk:02:25|>>]]**
+
+~~DISCUSSION~~{{tag>draft purify written offer lawofmoses sacrifice}}
+
+~~NOCACHE~~

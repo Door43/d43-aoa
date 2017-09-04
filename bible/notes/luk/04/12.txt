@@ -1,0 +1,48 @@
+====== Luke 04:12-13*F ======
+
+===== TFT: =====
+
+<usfm> \v 12 But Jesus replied, "\add No, I\add* will not \add do that, because\add* it is written \f + \ft Or:\add Moses\add* wrote \f* \add in the Scriptures\add*: 'Do not try to test the Lord your God \add to see if he will prevent something bad from happening to you when you do something foolish\add*'." \p \v 13 Then, after the devil had finished trying to tempt \add Jesus\add* in many ways, he left him. He wanted to try to tempt him later at an appropriate time.
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 12 But Jesus replied, "No, I will not do that, because it is written in the scriptures: 'Do not try to test the Lord your God'." \p \v 13 Then, after the devil had finished trying to tempt Jesus in many ways, he left him until a later time.
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 12 Jesus answering said to him, "It is said, 'You must not test the Lord your God.'" \p \v 13 When the devil had finished tempting Jesus, he went away and left him until another time. </usfm>
+
+===== Target ULB: =====
+12 Jesus respondeu dizendo, “Está dito, 'Não tentarás o Senhor seu Deus'”, 13 Quando o diabo havia terminado de tentar Jesus, ele foi embora e o deixou até outra oportunidade. 
+
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:test|test]]
+  * [[:aoa:bible:notes:key-terms:lordgod|Lord your God]]
+  * [[:aoa:bible:notes:key-terms:satan|devil]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **it is said**  - This could be translated as "The scriptures say" or "It is written."
+  * <font inherit/inherit;;#B22222;;inherit>** é dito que ** - Isto pode ser traduzido como "As escrituras dizem" ou "está escrito".</font>
+  * **You must not test the Lord your God**  - This can be translated as "Do not test the Lord your God." Jesus quoted this Scripture to say why he would not put God to the test by jumping down from the temple. This command is for God's people.
+  * <font inherit/inherit;;#B22222;;inherit>** Você não deve provar o Senhor seu Deus  ** - Isto pode ser traduzido como: "Não prove o Senhor seu Deus". Jesus citou esta Escritura para dizer porque ele não provaria a Deus pulando do templo. Este mandamento é para o povo de Deus.</font>
+  * **until another time**  - "until another occasion"
+  * <font inherit/inherit;;#B22222;;inherit>** até um outro momento ** - "até uma outra ocasião".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:04:09|<<]] | [[:aoa:bible:notes:luk:04:14|>>]]**
+
+~~DISCUSSION~~{{tag>draft test}}
+
+~~NOCACHE~~

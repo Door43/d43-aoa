@@ -1,0 +1,48 @@
+====== Luke 09:61-62 *F ======
+
+===== TFT: =====
+
+<usfm> \v 61 Someone else said, "Lord, I will come with you and be your disciple, but first let me go home to say goodbye to my relatives." \v 62 Jesus said to him, "Anyone who is plowing his field should not look back \add to see what he has done. He must look forward to what is ahead. Similarly\add*, \add anyone who continues to be concerned about his family and other things he has left behind\add* is not fit \add to serve me and tell others about how\add* God wants to rule \f + \ft metonymy \f* \add people's lives\add*." </usfm>
+
+===== UDB: =====
+
+<usfm> \v 61 Someone else said, "Lord, I will come with you and be your disciple, but first let me go home to say goodbye to my people." \v 62 Jesus said to him, "Anyone who starts plowing his field and then looks behind him is not able to serve God when he rules everything as king." </usfm>
+
+===== ULB: =====
+
+<usfm> \v 61 Another person also said, "I will follow you, Lord, but first allow me to say farewell to them who are at my house." \v 62 But Jesus said to him, "No one, having put his hand to the plow and looking back, is fit for the kingdom of God." </usfm>
+
+===== Target ULB: =====
+
+61 Então outra pessoa também disse: “Senhor eu te seguirei, mas permita que primeiro eu me despeça dos da minha casa.” 62 Mas Jesus lhe disse: “Ninguém que, tendo posto a mão no arado e olha para trás, é apto para o reino de Deus.” 
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:lord|Lord]]
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:kingdomofgod|kingdom of God]]
+
+===== Translation Notes: =====
+
+  * **I will follow you **- "I will join you as a disciple" or "I am ready to follow you" or "I promise to follow you"
+  * <font inherit/inherit;;#B22222;;inherit>** Eu te seguirei  ** - "Eu vou acompanhar você como um discípulo" ou "Eu estou pronto para te seguir" ou "Eu prometo seguir você"</font>
+  * **first allow me to say farewell**  - This could be translated as "before I do that, let me say goodbye" or "let me first tell them that I am leaving."
+  * <font inherit/inherit;;#B22222;;inherit>** primeiro permita-me despedir  ** - Isto pode ser traduzido como "antes que eu faça isto, deixe-me dizer adeus" ou "deixe-me primeiro dizer-lhes que eu estou partindo."</font>
+  * **them that are at my house**  - "my household" or "the people at my home"
+  * <font inherit/inherit;;#B22222;;inherit>** os que estão em minha casa  ** - "minha família" ou "as pessoas em minha casa"</font>
+  * **No one…fit for the kingdom of God**  - Jesus states this as a general principle that applies to every person. The implied meaning to the man, however is "You will not be fit for my kingdom if you focus on the people in your past instead of on following me." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** Ninguém…apto para o reino de Deus  ** - Jesus declara isto como um princípio geral que se aplica para cada pessoa. Portanto, o significado implícito para o homem é "Você não estará apto para o meu reino se você se focar nas pessoas em seu passado em vez de me seguir. (Veja: Informação Explícita eImplícita</font>    )
+  * **having put his hand to the plow**  - "having started to plow his field." Farmers use a plow to prepare their field so they can put seeds in it. Communities that do not know about plows could translate this in a general way: "having started to prepare his field." (See: [[:en:ta:translate:translateunknowns|How to Translate Unknowns]])
+  * <font inherit/inherit;;#B22222;;inherit>** tendo posto sua mão no arado  ** - "tendo começado a arar seu campo." Os agricultores usam um arado para preparar o campo de forma que possam colocar sementes nele. Comunidade que não sabem sobre arados podem traduzir isto de uma maneira geral: "tendo começado a preparar o seu campo." (Veja: Como Traduzir Desconhecidos)</font>
+  * **looking back**  - A person who is looking back while plowing cannot guide the plow where it needs to go. They must focus on looking forward in order to plow well.
+  * <font inherit/inherit;;#B22222;;inherit>** olha para trás  ** - Uma pessoa que está olhando para trás ao arar não pode guiar o arado onde ele precisa ir. Ela deve se focar em olhar para frente, a fim de arar bem.</font>
+  * **fit for**  - "useful for" or "suitable for"
+  * <font inherit/inherit;;#B22222;;inherit>** apto para  ** - "útil para" ou "adequado para"</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:09:59|<<]] | [[:aoa:bible:notes:luk:10:01|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}

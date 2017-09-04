@@ -1,0 +1,44 @@
+====== Luke 03:23-24*F ======
+
+===== TFT: =====
+
+<usfm> \v 23 When Jesus began \add his work for God\add*, he was about thirty years old. It was \f + \ft Or:\add People\add* \f* thought that he was \add the son of\add* Joseph. \add Joseph was the son\add* of Heli. \v 24 \add Heli was the son\add* of Matthat. \add Matthat was the son\add* of Levi. \add Levi was the son\add* of Melchi. \add Melchi was the son\add* of Jannai. \add Jannai was the son\add* of Joseph. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 23 When Jesus began his work for God, he was about thirty years old. He was the son of Joseph (or so it was thought). Joseph was the son of Heli. \v 24 Heli was the son of Matthat. Matthat was the son of Levi. Levi was the son of Melchi. Melchi was the son of Jannai. Jannai was the son of Joseph. </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 23 Now Jesus himself, when he began to teach, was about thirty years of age. He was the son (as was supposed) of Joseph, the son of Heli, \v 24 the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph, </usfm>
+
+===== Target ULB: =====
+23 Quando Jesus começou a ensinar, ele tinha trinta anos. Ele era filho de José (como se pensava), filho de Eli, 24 filho de Matate, filho de Levi, filho de Melqui, filho de Janai, filho de José, 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:josephnt|Joseph]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **Now Jesus himself**  - This phrase introduces a change in the story. From this point on, Jesus will be the main character. If your language has a way to show when the story shifts to a new person, consider using it.
+  * <font inherit/inherit;;#B22222;;inherit>** agora o próprio Jesus ** - Esta frase introduz uma mudança na história. A partir de agora, Jesus será o personagem principal. Se sua língua tem uma maneira de mostrar quando a história muda para uma nova pessoa, considere o seu uso.</font>
+  * **Jesus himself**  - "this Jesus" or "this person Jesus." This is immediately followed by background information about Jesus. If your language has a way of showing that what follows is background information, you should use it here. (See: [[:en:ta:translate:writingstyles|Writing Styles - Background Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** o próprio Jesus  ** - "este Jesus" ou "esta pessoa Jesus". Isto é imediatamente sucedido por informações do passado de Jesus. Se sua língua tem uma maneira de mostrar que o que se seguirá na fala é informação do passado, você deve usá-la aqui.</font>
+  * **He was the son (as was supposed) of Joseph**  - "He was known as the son of Joseph" or "It was thought that he was the son of Joseph" or "People assumed that he was the son of Joseph"
+  * <font inherit/inherit;;#B22222;;inherit>** ele era o filho (como se supunha) de José ** - "Ele era conhecido como o filho de José" ou "Se pensava que ele era o filho de José" ou "as pessoas presumiam que ele era o filho de José".</font>
+  * **the son of Heli**  - Some translators may want to start a new sentence with "Joseph was the son of Heli" or "Joseph's father was Heli."
+  * <font inherit/inherit;;#B22222;;inherit>** o filho de Eli  ** - Algumas traduções podem querer começar essa sentença com: "José era filho de Eli" ou "o pai de José era Eli".</font>
+  * **the son of Heli, the son of Matthat, the son of Levi…**  - The phrase "the son" is implied information. The text simply says "of Heli, of Matthat, of Levi…" This list could be translated as "who was the son of Heli, who was the son of Matthat, who was the son of Levi…" or "Joseph was the son of Heli, Heli was the son of Matthat, Matthat was the son of Levi" or "Heli's father was Matthat, Matthat's father was Levi…" Consider how people normally list ancestors in your language. You can use the same wording throughout the whole list. (See: [[:en:ta:translate:translatenames|How to Translate Names]])
+  * <font inherit/inherit;;#B22222;;inherit>** o filho de Eli, o filho de Matate, o filho de Levi  ** - A frase "o filho" é informação implícita. O texto simplesmente diz: "de Eli, de Matate, de Levi...". Esta lista pode ser traduzida como: "que era o filho de Eli, que era o filho de Matate, que era o filho de Levi" ou "José era o filho de Eli, Eli era o filho de Matate, Matate era o filho de Levi" ou "o pai de Eli era Matate, o pai de Matate era Levi...". Considere como as pessoas normalmente listam os ancestrais na sua língua. Você pode usar a mesma maneira em toda a lista.</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:03:21|<<]] | [[:aoa:bible:notes:luk:03:25|>>]]**
+
+~~DISCUSSION~~{{tag>draft jesus josephnt}}

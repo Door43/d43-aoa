@@ -1,0 +1,57 @@
+====== Luke 02:36-38*F ======
+
+===== TFT: =====
+
+<usfm> \v 36 There was also \add in the Temple courtyard\add* a very old woman named Anna. She was a prophetess. Her father Phanuel was a member of the tribe of Asher. After she had been married seven years, her husband died. \v 37 After that, she lived until she was eighty-four years old, and she was still a widow. She stayed in the Temple \add area\add* all the time, night and day, worshipping God. She often abstained from food\f + \ft Or: fasted \f* as she prayed. \v 38 \add While Joseph and Mary and the baby were\add* still \add in the Temple, Anna came to them. She thanked God for the baby\add*. Then she spoke about Jesus to many people who were expecting \add God to send the Messiah\add* \f + \ft metonymy \f* to set \add the people of\add* \f + \ft metonymy \f* Jerusalem free \add from their enemies\add*.
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 36 There was also in the temple courtyard a prophetess named Anna who was very old. Her father Phanuel was a member of the tribe of Asher. She had been married for seven years and then her husband died. \v 37 After that, she lived eighty-four more years as a widow. She was always serving in the temple area and worshiped God night and day. She often fasted and prayed. \v 38 At that very moment, Anna came up to them and began thanking God for the baby. Then she spoke about Jesus to many people who were expecting God to redeem Jerusalem.
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 36 A prophetess named Anna was also there. She was the daughter of Phanuel from the tribe of Asher. She was very advanced in years. She had lived with her husband for seven years after her marriage, \v 37 and then was a widow for eighty-four years. She never left the temple and was continually worshipping God with fasting and prayers, night and day. \v 38 At that very moment, she came up to them and began thanking God. She talked about the child to everyone who had been waiting for the redemption of Jerusalem. </usfm>
+
+===== Target ULB: ======
+36 Uma profetisa chamada Ana também estava no templo. Ela era filha de Fanuel, da tribo de Aser. Ela havia sido casada por sete anos, então seu marido morreu. 37 Ela era viúva, de oitenta e quatro anos. Ela estava sempre no templo, adorando a Deus continuamente com jejum e oração, noite e dia. 38 Naquele mesmo momento, Ana foi até eles e começou a agradecer a Deus pelo bebê. Ela falou sobre Jesus a cada um que estava esperando o redentor de Jerusalém. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:prophet|prophetess]]
+  * [[:aoa:bible:notes:key-terms:asher|Asher]]
+  * [[:aoa:bible:notes:key-terms:temple|temple]]
+  * [[:aoa:bible:notes:key-terms:worship|worship]]
+  * [[:aoa:bible:notes:key-terms:god|God]]
+  * [[:aoa:bible:notes:key-terms:fast|fasting]]
+  * [[:aoa:bible:notes:key-terms:pray|prayer]]
+  * [[:aoa:bible:notes:key-terms:redeem|redemption]]
+  * [[:aoa:bible:notes:key-terms:jerusalem|Jerusalem]]
+
+===== Translation Notes: =====
+
+  * **after her marriage**  - "after she married him"
+  * <font inherit/inherit;;#B22222;;inherit>** após ela se casar  ** - "após ela casar com ele"</font>
+  * **a widow for eighty-four years**  - Possible meanings are 1) she had been a widow for eighty-four years or 2) she was a widow and was now eighty-four years old.
+  * <font inherit/inherit;;#B22222;;inherit>** uma viúva por oitenta e quatro anos  ** - Possíveis significados são 1) ela foi viúva por oitenta e quatro anos ou 2) ela era viúva e agora tinha oitenta e quatro anos.</font>
+  * **never left the temple**  - This is probably an exaggeration meaning that she spent so much time in the temple that it seemed as though she never left it. It could be translated as "was always at the temple" or it could state the meaning without the hyperbole: "was often at the temple." (See: [[:en:ta:translate:hyperbole|Hyperbole]])
+  * <font inherit/inherit;;#B22222;;inherit>** nunca deixava o templo  ** - Isto é provavelmente um exagero significando que ela ela passava tanto tempo no templo que parecia que ela nunca deixava o lugar. Isto pode ser traduzido como "estava sempre no templo" ou pode indicar o significado sem a hipérbole: "estava frequentemente no templo." (Veja: Hipérbole)</font>
+  * **with fastings and prayers**  - "by abstaining from food and by praying"
+  * <font inherit/inherit;;#B22222;;inherit>** com jejuns e orações  ** - "abstendo-se de comida e orando"</font>
+  * **came up to them**  - "approached them" or "went to Mary and Joseph"
+  * <font inherit/inherit;;#B22222;;inherit>** veio até eles  ** - "aproximou-se deles" ou "foi até Maria e José"</font>
+  * **the redemption of Jerusalem**  - This could be translated as "the one who would redeem Jerusalem" or "the person who would bring God's blessings and favor back to Jerusalem." Here the word "redemption" is used to refer to the the person who would do it. (See: [[:en:ta:translate:metonymy|Metonymy]])
+  * <font inherit/inherit;;#B22222;;inherit>** a redenção de Jerusalém  ** - Isto pode ser traduzido como "aquele que redimiria Jerusalém" ou "a pessoa que traria as bençãos e os favores de Deus de volta a Jerusalém." Aqui a palavra "redenção" é usada para se referir a pessoa que faria isto. (Veja: Metonímia)</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:02:33|<<]] | [[:aoa:bible:notes:luk:02:39|>>]]**
+
+~~DISCUSSION~~{{tag>draft asher worship fast pray redeem}}
+
+~~NOCACHE~~

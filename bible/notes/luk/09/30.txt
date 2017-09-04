@@ -1,0 +1,42 @@
+====== Luke 09:30-31  *F ======
+
+===== TFT: =====
+
+<usfm> \v 30-31 Suddenly, two men appeared who had the brightness \add of heaven\add* surrounding them. They were \add prophets who had lived long ago\add*, Moses and Elijah. They started talking with Jesus about how he \add would accomplish what God had planned when he died\add* \f + \ft euphemism \f* \add very soon\add* in Jerusalem. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 30 Suddenly, two prophets from long ago were there talking with Jesus; they were Moses and Elijah. \v 31 They appeared surrounded in glory, and spoke with Jesus about his departure, which would soon be accomplished in Jerusalem. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 30 Behold, there were two men talking with him–they were Moses and Elijah, \v 31 who looked glorious. They spoke about his departure, which he was about to fulfill in Jerusalem. </usfm>
+
+===== Target ULB: =====
+
+30 Inesperadamente dois homens estavam falando com ele, estes eram Moisés e Elias. 31 Eles apareceram com glória e falavam sobre a partida de Jesus que estava prestes a se cumprir em Jerusalém. 
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:moses|Moses]]
+  * [[:aoa:bible:notes:key-terms:elijah|Elijah]]
+  * [[:aoa:bible:notes:key-terms:glory|glorious]]
+  * [[:aoa:bible:notes:key-terms:fulfill|fulfill]]
+  * [[:aoa:bible:notes:key-terms:jerusalem|Jerusalem]]
+
+===== Translation Notes: =====
+
+  * **And behold, there were two men talking**  - The word “behold” here alerts us pay attention to the surprising thing that follows. It can be translated as "Suddenly there were two men talking" or "Suddenly two men were talking."
+  * <font inherit/inherit;;#B22222;;inherit>** E eis que haviam dois homens falando ** - A expressão "eis que" aqui nos alerta para prestarmos atenção à coisas surpreendentes que se seguem. Isto pode ser traduzido como "De repente, haviam dois homens conversando" ou "De repente, dois homens estavam conversando."</font>
+  * **who looked glorious**  - This relative clause is adding information about Moses and Elijah. It can be translated as "and they looked glorious." (See: description of Relative Clauses in [[https://door43.org/en/ta/vocabulary/sentencestructure#clause|Clauses ]]on [[:en:ta:vocabulary:sentencestructure|sentencestructure]])
+  * <font inherit/inherit;;#B22222;;inherit>** que pareciam gloriosos ** - Esta cláusula relativa está adicionando informações sobre Moisés e Elias. Isto pode ser traduzido como "e eles pareciam gloriosos." (Veja: descrição de Cláusula Relativa em Cláusulas no Estrutura de Sentença)</font>
+  * **his departure**  - "his leaving" or "how he would leave this world." It could be translated as "his death." (See: [[:en:ta:figuresofspeech:euphemism|Euphemism]])
+  * <font inherit/inherit;;#B22222;;inherit>** sua partida ** - "sua ida" ou "como ele deixaria este mundo." Isto pode ser traduzido como "sua morte." (Veja: Eufemismo)</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:09:28|<<]] | [[:aoa:bible:notes:luk:09:32|>>]]**
+
+~~DISCUSSION~~{{tag>draft moses elijah}}

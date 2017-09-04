@@ -1,0 +1,48 @@
+====== Luke 02:8-9*F ======
+
+===== TFT: =====
+
+<usfm> \v 8 That night, there were \add some\add* shepherds who were taking care of their sheep \add as usual\add* in the fields near \add Bethlehem\add*. \v 9 An angel from God appeared to them. A great light from the Lord\f + \ft Or: from God \f* shone on them and around them. \add So\add* they became very afraid. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 8 That night, there were some shepherds who were taking care of their sheep in the fields near Bethlehem. \v 9 Suddenly an angel of the Lord God appeared to them. A bright light shone all around them, showing the Lord's glory. So they became very afraid. </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 8 In that same region, there were shepherds who were living out in the fields and were keeping watch over their flocks of sheep at night. \v 9 Suddenly, an angel of the Lord appeared to them, and the glory of the Lord was shining all around them, and they were very afraid. </usfm>
+
+===== Target ULB: =====
+8 Naquela noite alguns pastores, perto de Belém, estavam no campo cuidando de suas ovelhas. 9 De repente um anjo do Senhor apareceu para eles. Uma luz brilhava com grande intensidade em torno deles, demonstrando a glória do Senhor e todos ficaram muito assustados. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:shepherd|shepherd]]
+  * [[:aoa:bible:notes:key-terms:sheep|sheep]]
+  * [[:aoa:bible:notes:key-terms:angel|angel]]
+  * [[:aoa:bible:notes:key-terms:glory|glory]]
+
+===== Translation Notes: =====
+
+  * **in that same region**  - "in that area" or "near Bethlehem"
+  * <font inherit/inherit;;#B22222;;inherit>** naquela mesma região ** - "naquela área" ou "perto de Bélem"</font>
+  * **keeping watch over**  - "taking care of" or "guarding in order to keep them safe"
+  * <font inherit/inherit;;#B22222;;inherit>** vigiando ** - "cuidando de" ou "protegente a fim de mantê-los seguro"</font>
+  * **flocks of sheep**  - "groups of sheep."
+  * <font inherit/inherit;;#B22222;;inherit>** rebanhos de ovelhas ** - "grupos de ovelhas."</font>
+  * **at night**  - This could be translated as "after the sun had set and it was dark."
+  * <font inherit/inherit;;#B22222;;inherit>** à noite ** - Isto pode ser traduzido como "após o sol se pôr e estava escuro."</font>
+  * **an angel of the Lord**  - This could be translated as "an angel from the Lord" or "an angel who serves the Lord" or "an angel who was sent by the Lord."
+  * <font inherit/inherit;;#B22222;;inherit>** um anjo do Senhor ** - Isto pode ser traduzido como "um anjo vindo do Senhor" ou "um anjo que serve ao Senhor" ou "um anjo que foi enviado pelo Senhor."</font>
+  * **appeared to them**  - "came to them."
+  * <font inherit/inherit;;#B22222;;inherit>** apareceu a eles ** - "veio até eles."</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:02:06|<<]] | [[:aoa:bible:notes:luk:02:10|>>]]**
+
+~~DISCUSSION~~{{tag>draft shepherd angel glory}}
+
+~~NOCACHE~~

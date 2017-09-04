@@ -1,0 +1,45 @@
+====== Luke 03:9*F ======
+
+===== TFT: =====
+
+<usfm> \v 9 \add God is ready to punish you if you do not turn away from your sinful behavior, just like a man\add* \f + \ft metaphor \f* lays his axe at the roots \add of a fruit\add* tree\add to chop it down and throw it into the fire if it does not produce good fruit\add* \f + \ft metaphor \f*." \p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 9 The ax is already placed at the root of the trees, so that every tree that does not produce good fruit will be cut down and thrown into the fire." </usfm>
+
+===== ULB: =====
+
+<usfm> \v 9 Already the ax has been placed against the root of the trees. So every tree that does not produce good fruit is chopped down and thrown into the fire." </usfm>
+
+===== Target ULB: =====
+
+9 O machado já está posto à raiz das árvores. Toda a árvore que não produz bom fruto será cortada e lançada no fogo.” 
+
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:ax|ax]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (John continues speaking to the crowd.)
+  * <font inherit/inherit;;#B22222;;inherit>(João continua a falar para a multidão)</font>
+  * **the ax has been placed against the root of the trees **- This metaphor means that the punishment is about to start. This could be translated as "It is as if the ax has already been placed against the root of the trees" or "God is like a man who has placed his ax against the root of the trees." (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** o machado foi posto à raíz das árvores ** - Esta metáfora significa que o castigo está prestes a começar. Isto pode ser traduzido como: "é como se o machado já tivesse sido colocado contra a raíz das árvores" ou "Deus é como um homem que colocou seu machado contra a raíz das árvores".</font>
+  * **every tree that does not produce good fruit is chopped down **  - This is a passive clause. It can be translated with an active clause "He chops down every tree that does not produce good fruit." (See: [[:en:ta:translate:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** toda árvore que não produz bons frutos é derrubada ** - Esta é uma sentença passiva. Pode ser traduzida como uma sentença ativa: "ele derruba toda árvore que não produz bons frutos".</font>
+  * **thrown into the fire **- This can be translated with an active clause "throws it into the fire."
+  * <font inherit/inherit;;#B22222;;inherit>** jogada no fogo ** - Isto pode ser traduzido como uma sentença ativa: "joga ela no fogo".</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:03:08|<<]] | [[:aoa:bible:notes:luk:03:10|>>]]**
+
+~~DISCUSSION~~{{tag>draft ax}}
+
+~~NOCACHE~~

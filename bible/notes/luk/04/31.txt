@@ -1,0 +1,49 @@
+====== Luke 04:31-32*F ======
+
+===== TFT: =====
+
+<usfm> \v 31 \add One day\add* he went \add with his disciples\add* down to Capernaum, a town in Galilee \add district\add*. On the next Sabbath\f + \ft Or: Jewish day of rest \f* \f + \ft Or: Each Sabbath( Or: Jewish day of rest ) \f*, he taught the people \add in the synagogue\f + \ft Or: in the Jewish meeting place\add* \f*. \v 32 They were continually amazed at what he was teaching, because \add he spoke\add* \add with authority\f + \ft Or: as people speak who have\add* the right to command others what to do \f*. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 31 One day he went with his disciples down to Capernaum, a city in the district of Galilee. On the next Sabbath, he taught the people in the synagogue. \v 32 They were continually amazed at what he was teaching, because he spoke with confidence. </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 31 Then he went down to Capernaum, a city in Galilee. One Sabbath he was teaching the people in the synagogue. \v 32 They were astonished at his teaching, because he spoke with authority. </usfm>
+
+===== Target ULB: =====
+
+31 Então ele desceu a Cafarnaum, uma cidade na Galileia. No dia de Sabá ele estava ensinando as pessoas na sinagoga. 32 Elas estavam maravilhadas com o que ele dizia, pois ele falava com autoridade.
+
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:capernaum|Capernaum]]
+  * [[:aoa:bible:notes:key-terms:galilee|Galilee]]
+  * [[:aoa:bible:notes:key-terms:sabbath|Sabbath]]
+  * [[:aoa:bible:notes:key-terms:synagogue|synagogue]]
+  * [[:aoa:bible:notes:key-terms:authority|authority]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **he went down**  - "Jesus went downhill." Capernaum was lower in altitude than Nazareth.
+  * <font inherit/inherit;;#B22222;;inherit>ele desceu - "Jesus desceu a colina". Cafarnaum estava em uma altitude mais baixa que Nazaré.</font>
+  * **Capernaum, a city in Galilee**  - Since Jesus was already in Galilee, this could be translated as "Capernaum, another city in Galilee."
+  * <font inherit/inherit;;#B22222;;inherit>** Cafarnaum, uma cidade da Galileia ** - Considerando que Jesus já estava na Galileia, isto poderia ser traduzido como: "Cafarnaum, uma outra cidade da Galileia".</font>
+  * **astonished**  - "greatly surprised" or "impressed"
+  * <font inherit/inherit;;#B22222;;inherit>** atônitos ** - "muito surpresos" ou "impressionados".</font>
+  * **he spoke with authority**  - This could be translated as "his word had authority" or "he spoke as one with authority."
+  * <font inherit/inherit;;#B22222;;inherit>** ele falou com autoridade  ** - Isto poderia ser traduzido como: "sua palavra tinha autoridade" ou "ele falou como alguém com autoridade".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:04:28|<<]] | [[:aoa:bible:notes:luk:04:33|>>]]**
+
+~~DISCUSSION~~{{tag>draft capernaum synagogue}}
+
+~~NOCACHE~~

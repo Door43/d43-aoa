@@ -1,0 +1,52 @@
+====== Luke 01:11-13*F ======
+
+===== TFT: =====
+
+<usfm> \v 11 Then an angel whom God had \add sent\add* appeared to him. The angel was standing at the right side of the place \add where the priests burned\add* incense. \v 12 When Zechariah saw the angel, he was startled and became very afraid. \v 13 But the angel said to him, "Zechariah, do not be afraid! When you\add \f + \ft singular \f*\add* prayed \add asking God for a son\add* \f + \ft Or: \add that God would send the Messiah\add* \f*, God heard what you prayed. \add So\add* your wife Elizabeth shall bear a son for you. You must name him John. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 11 Then an angel whom the Lord had sent appeared to him. The angel was standing at the right side of the altar of incense. \v 12 When Zechariah saw the angel, he was startled and became very afraid. \v 13 But the angel said to him, "Zechariah, do not be afraid! When you prayed, the Lord heard your request. So your wife Elizabeth will bear a son for you. You must name him John. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 11 An angel of the Lord appeared to him, standing at the right side of the altar of incense. \v 12 Zechariah was troubled when he saw him, and became very afraid. \v 13 But the angel said to him, "Do not be afraid, Zechariah, because your prayer has been heard. Your wife, Isabel, will bear you a son, and you will name him John. </usfm>
+
+===== Target ULB: =====
+
+11 Um Anjo do Senhor apareceu a ele, em pé, à direita do altar do incenso. 12 Quando Zacarias o viu ficou aterrorizado e com muito medo. 13 Mas o anjo disse-lhe: ¨Não tenha medo Zacarias, porque sua oração foi ouvida. Sua esposa, Isabel dará à luz a um filho, e você o chamará de João
+----
+
+===== Important Terms: =====
+
+
+    * [[en:obe:kt:angel|angel]]
+    * [[en:obe:kt:lord|Lord]]
+    * [[en:obe:other:altarofincense|altar of incense]]
+    * [[en:obe:other:zechariahnt|Zechariah]]
+    * [[en:obe:other:pray|prayer]]
+    * [[en:obe:other:elizabeth|Elizabeth]]
+    * [[en:obe:other:johnthebaptist|John]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **of the Lord **  - "from the Lord" or "who serves the Lord" or "who was sent by the Lord"
+  * <font inherit/inherit;;#B22222;;inherit>** do Senhor  ** - "vindo do Senhor" ou "quem serve ao Senhor" ou "quem foi enviado pelo Senhor".</font>
+  * **appeared to him**  - "suddenly came to him" or "was suddenly there with Zechariah"
+  * <font inherit/inherit;;#B22222;;inherit>** apareceu a ele  ** - "de repente veio a ele" ou "subitamente estava ali com Zacarias".</font>
+  * **Your prayer has been heard **- "God has heard what you asked him for." The following is implied and could be added: "and will grant it." God did not just hear what Zechariah prayed for; he was also going to do it. (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** suas orações foram ouvidas  ** - "Deus ouviu o que você pediu a ele". A seguinte informação está implícita e pode ser adicionada: "e te concederá o que pediu".</font>
+  * **will call his name John**  - “will give him the name John” or “will name him John”
+  * <font inherit/inherit;;#B22222;;inherit>** chamará seu nome de João  ** - "dará a ele o nome de João" ou "o chamará João".</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:01:08|<<]] | [[:aoa:bible:notes:luk:01:14|>>]]**
+
+~~DISCUSSION~~{{tag>draft angel altarofincense zechariahnt elizabeth johnthebaptist}}
+
+~~NOCACHE~~

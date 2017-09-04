@@ -1,0 +1,55 @@
+====== Luke 01:54-55*F ======
+
+===== TFT: =====
+
+<usfm> \v 54-55 He promised to Abraham and all our other ancestors who descended from him that he would act mercifully toward them forever. \q1 And now he has remembered what he promised. \q1 So he has helped me and all the other people of \f + \ft metonymy \f* Israel who serve him. \p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 54-55 He has helped Israel, the people who serve him. \q Long ago he promised our ancestors that he would be merciful to them. \q He has kept that promise and has always acted mercifully toward Abraham and all who descended from him."
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \q \v 54 He has helped his servant Israel, \q in order to be merciful \q \v 55 to Abraham and his descendants forever, \q just as he promised to our ancestors he would do." </usfm>
+
+===== Target ULB: =====
+54 Ele ajudou a seu servo Israel , sendo misericordioso 55 a Abraão e à sua descendência para sempre, como ele prometeu aos nossos antepassados . ” 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:servant|servant]]
+  * [[:aoa:bible:notes:key-terms:israel|Israel]]
+  * [[:aoa:bible:notes:key-terms:mercy|merciful]]
+  * [[:aoa:bible:notes:key-terms:abraham|Abraham]]
+  * [[:aoa:bible:notes:key-terms:descendant|descendant]]
+  * [[:aoa:bible:notes:key-terms:promise|promise]]
+  * [[:aoa:bible:notes:key-terms:ancestor|ancestor]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Mary continues to praise God:)
+  * <font inherit/inherit;;#B22222;;inherit>(Maria continua a louvar a Deus)</font>
+  * **He has helped**  - "The Lord has helped"
+  * <font inherit/inherit;;#B22222;;inherit>** tem ajudado ** - "o Senhor tem ajudado".</font>
+  * **his servant Israel**  - "Israel" here refers to the nation, or people, of Israel. If readers confuse this with the the man named Israel, it could be translated as "his servant, the nation of Israel" or "Israel, his servants."
+  * <font inherit/inherit;;#B22222;;inherit>** seu servo Israel ** - "Israel" aqui se refere à nação ou ao povo de Israel. Se houver a possibilidade de os leitores confundirem isso com o homem chamado Israel, então traduza como:  "seu servo, a nação de Israel" ou "Israel, seus servos".</font>
+  * **just as he promised**  - "because he promised"
+  * <font inherit/inherit;;#B22222;;inherit>** assim como ele prometeu ** - "porque ele prometeu".</font>
+  * **his descendants**  - "Abraham's descendants"
+  * <font inherit/inherit;;#B22222;;inherit>** os descendentes dele ** - "os descendentes de Abraão".</font>
+  * (This is the end of Mary's speech.)
+  * <font inherit/inherit;;#B22222;;inherit>(Este é o final do discurso de Maria)</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:01:52|<<]] | [[:aoa:bible:notes:luk:01:56|>>]]**
+
+~~DISCUSSION~~{{tag>draft israel abraham promise}}
+
+~~NOCACHE~~

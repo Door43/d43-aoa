@@ -1,0 +1,68 @@
+====== Luke 10:21    *F ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 At that time the Holy Spirit caused \add Jesus\add* to be very happy. He said, "Father, you\add \f + \ft singular \f*\add* rule over \add everything in\add* heaven and \add on\add* the earth! Some \add people think that they are\add* wise \add because\add* they are well-educated. But I thank you that you have prevented them from \add knowing\add* these things\add . Instead\add*, you have revealed them to \add people who accept your truth as readily\add* \f + \ft metaphor \f* \add as\add* little children \add do\add*. Yes, Father, \add you have done that\add* because it seemed good to you \add to do\add* so."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 Right then, Jesus was filled with great joy from the Holy Spirit. He said, "Father, you are Lord over everything in heaven and on earth. Some people think that they are wise because they are well educated. But I praise you that you have prevented them from knowing these things. Instead, you have revealed them to people who accept your truth readily as little children do. Yes, Father, you have done that because it pleased you to do so."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm> \p \v 21 At that same time he rejoiced greatly in the Holy Spirit, and said, "I praise you, O Father, Lord of heaven and earth, because you concealed these things from the wise and understanding, and revealed them to those who are untaught, like little children. Yes, Father, for so it was well-pleasing in your sight." </usfm>
+
+===== Target ULB: =====
+
+21 Ao mesmo tempo que ele exultou no Espírito Santo, e disse: “Eu te louvo, ó Pai, Senhor do céu e da terra, porque você ocultou estas coisas dos que pensam que são sábios e cultos, e as revelaste àqueles que são ignorantes, como criancinhas. Sim, ó Pai, porque assim foi agradável à sua vista ”. 
+----
+
+===== Important Terms: =====
+
+
+    * [[:aoa:bible:notes:key-terms:rejoice|rejoice]]
+    * [[:aoa:bible:notes:key-terms:holyspirit|Holy Spirit]]
+    * [[:aoa:bible:notes:key-terms:godthefather|Father]]
+    * [[:aoa:bible:notes:key-terms:lord|Lord]]
+    * [[:aoa:bible:notes:key-terms:heaven|heaven]]
+    * [[:aoa:bible:notes:key-terms:wise|wise]]
+
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Jesus begins to speak directly to his Father in the presence of the disciples.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus começa a falar diretamente com seu Pai na presença dos seus discípulos).</font>
+  * **Lord of heaven and earth**  - "Master over everyone and everything in heaven and earth"
+  * <font inherit/inherit;;#B22222;;inherit>** Senhor do céu e da terra ** - "Senhor de todos e de tudo no céu e na terra".</font>
+  * **these things**  - This refers to Jesus' previous teaching about the authority of the disciples. It may be best to simply say "these things" and let the reader determine the meaning.
+  * <font inherit/inherit;;#B22222;;inherit>** estas coisas ** - Isto se refere ao ensino anterior de Jesus sobre a autoridade dos discípulos. Talvez seja melhor apenas dizer: "estas coisas" e deixar que o leitor identifique o significado.</font>
+  * **the wise and understanding**  - "from people who are wise and understanding." This can be translated as "from people who think they are wise and understanding." (See: [[:en:ta:translate:irony|Irony]])
+  * <font inherit/inherit;;#B22222;;inherit>** os sábios e entendidos ** - "das pessoas que são sábias e entendidas". Isto pode ser traduzido como: "das pessoas que pensam ser sábias e entendidas".</font>
+  * **untaught, like little children**  - The term in the Greek refers to a very young child. Possible meanings are 1) "untaught" (ULB) or 2) "who accept your truth readily" (UDB).
+  * <font inherit/inherit;;#B22222;;inherit>** iletradas, como as crianças  ** - O termo no grego se refere a uma criança muito jovem. Possíveis significados: 1) "iletrados" (ULB) ou 2) "que prontamente aceitam sua verdade" (UDB).</font>
+  * **like little children**  - This is a simile for people who are not wise and knowledgable, or people who know that they are not wise and knowledgable. (See: [[:en:ta:translate:simile|Simile]])
+  * <font inherit/inherit;;#B22222;;inherit>** como criancinhas  ** - Esta é uma símile para pessoas que não são sábias e inteligentes, ou pessoas que sabem que não são sábias e inteligentes.</font>
+  * **for so it was well-pleasing in your sight**  - "for you saw that it was good to do that"
+  * <font inherit/inherit;;#B22222;;inherit>** pois isto te foi agradável à vista  ** - "pois você viu que era bom fazer aquilo".</font>
+
+===== Links: =====
+
+  * **[[pt-br/bible/notes:luk/questions/comprehension/10|Luke Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[pt-br/bible/notes/luk/10/17|<<]] | [[pt-br/bible/notes/luk/10/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft godthefather}}
+~~NOCACHE~~

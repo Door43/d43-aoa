@@ -1,0 +1,47 @@
+====== Luke 05:25-26  *F ======
+
+===== TFT: =====
+
+<usfm> \v 25 Immediately the man \add was healed\add*! He got up in front of them. He picked up the \add sleeping pad\add* on which he had been lying, and he went home, praising God. \v 26 All the people \add there\add* were amazed! They praised God and were completely awestruck. They kept saying, "We\add \f + \ft inclusive \f*\add* have seen wonderful things today!"
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 25 Immediately the man was healed! He got up in front of them all. He picked up the sleeping pad on which he had been lying, and he went home, praising God. \v 26 All the people there were astonished! They praised God and were completely awestruck. They kept saying, "We have seen wonderful things today!"
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 25 Immediately he got up in front of them and picked up the mat he was lying on; then he went back to his house, glorifying God. \v 26 Everyone was amazed and they glorified God. They were filled with fear, saying, "We have seen extraordinary things today." </usfm>
+===== Target ULB: =====
+25 Imediatamente ele se levantou na frente deles, pegou o leito em que ele vivia deitado e foi para a sua casa glorificando à Deus. 26 Todos ficaram maravilhados e glorificavam à Deus, e cheios de temor, diziam, “Hoje nós vimos coisas extraordinárias.” 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:glorify|glorify]]
+  * [[:aoa:bible:notes:key-terms:god|God]]
+  * [[:aoa:bible:notes:key-terms:fear|fear]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **immediately**  - "at once" or "right away"
+  * <font inherit/inherit;;#B22222;;inherit>** imediatamente ** - "de uma vez" ou "na mesma hora".</font>
+  * **amazement took hold of everyone**  - "everyone who saw it was very surprised"
+  * <font inherit/inherit;;#B22222;;inherit>** espanto tomou conta de todos ** - "todos o que viram aquilo ficaram surpresos".</font>
+  * **filled with fear**  - "very afraid" or "filled with awe"
+  * <font inherit/inherit;;#B22222;;inherit>** cheios de temor ** - "com muito medo" ou "cheios de terror".</font>
+  * **extraordinary things**  - "amazing things" or "strange things"
+  * <font inherit/inherit;;#B22222;;inherit>** coisas extraordinárias  ** - "coisas maravilhosas" ou "coisas estranhas".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:05:22|<<]] | [[:aoa:bible:notes:luk:05:27|>>]]**
+
+~~DISCUSSION~~{{tag>draft obey fear filled}}
+
+~~NOCACHE~~

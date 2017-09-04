@@ -1,0 +1,47 @@
+====== Luke 03:3*F ======
+
+===== TFT: =====
+
+<usfm> \v 3 \add So\add* John went all over the area close to the Jordan \add River\add*. He kept telling people, "If you want \add God\add* to forgive you for your sins, you must repent\f + \ft Or: turn away from your sinful behavior \f* \add before you ask me\add* to baptize \add you\add*!" \p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 3 John was traveling all around the area near the Jordan River. He kept telling people, "If you want God to forgive your sins, you must repent; then I will baptize you!" </usfm>
+
+===== ULB: =====
+
+<usfm> \v 3 He traveled throughout the region around the Jordan River, preaching a baptism of repentance for the forgiveness of sins. </usfm>
+===== Target ULB: =====
+
+
+3 Ele viajou em toda a região do Rio Jordão, pregando o batismo do arrependimento, para o perdão dos pecados. 
+-----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jordan-river|Jordan River]]
+  * [[:aoa:bible:notes:key-terms:repentance|repentance]]
+  * [[:aoa:bible:notes:key-terms:forgiveness|forgiveness]]
+  * [[:aoa:bible:notes:key-terms:sin|sin]]
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para tradução:</font>
+
+  * **He traveled **- "John traveled"
+  * <font inherit/inherit;;#B22222;;inherit>** Ele viajou -  ** "João viajou"</font>
+  * **preaching a baptism of repentance**  - This could be translated as "preached that people should be baptized to show that they were repenting of their sins."
+  * <font inherit/inherit;;#B22222;;inherit>** pregando um batismo de arrependimento  ** - Isso poderia ser traduzido como "pregou que as pessoas devem ser batizads para mostrar que estavam arrependidas de seus pecados."</font>
+  * **for the forgiveness of sins**  - "so that their sins would be forgiven" or "so that God would forgive their sins." The repentance was for the forgiveness of sins.
+  * <font inherit/inherit;;#B22222;;inherit>** para o perdão dos pecados  ** - "para que Deus perdoe seus pecados" "para que seus pecados sejam perdoados." O arrependimento era para o perdão dos pecados.</font>
+
+~~NOCACHE~~
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:03:01|<<]] | [[:aoa:bible:notes:luk:03:04|>>]]**
+
+~~DISCUSSION~~{{tag>draft jordanriver baptize repent forgive sin}}
+
+~~NOCACHE~~

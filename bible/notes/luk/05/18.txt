@@ -1,0 +1,45 @@
+====== Luke 05:18-19 *F ======
+
+===== TFT: =====
+
+<usfm> \v 18 several men brought on a sleeping pad a man who was paralyzed. They wanted to bring him into \add the house\add* and lay him in front of Jesus. \v 19 But there was no way to do that because of the large crowd of people, so they went up \add the steps\add* onto the roof. They tied ropes onto the sleeping pad and, after \add removing some of\add* the tiles on the roof, they lowered the man \add on\add* the sleeping pad. They lowered him through the opening into the midst of the crowd in front of Jesus. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 18 While Jesus was there, several men brought to him a man who was paralyzed. They were carrying the man on a sleeping pad and tried to bring him into the house to lay him down in front of Jesus. \v 19 But they were not able to bring him in because there was such a large crowd of people in the house, so they went up the outside steps onto the roof. Then they removed some of the tiles from the roof to make an opening. They lowered the man on his sleeping pad through the opening into the middle of the crowd and put him down right in front of Jesus. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 18 Now some men came, carrying on a mat a man that was paralyzed, and they looked for a way to bring him inside in order to lay him down in front of Jesus. \v 19 They could not find a way to bring him in because of the crowd, so they went up to the housetop and let the man down through the tiles, on his mat, into the midst of the people, right in front of Jesus. </usfm>
+===== Target ULB: =====
+18 Alguns homens vieram carregando em um leito um homem que era paralítico. Eles procuravam uma maneira de trazê-lo para dentro a fim de deitá-lo em frente a Jesus. 19 Mas, por causa da multidão eles não conseguiram. Então eles subiram no telhado e, por entre as telhas, desceram o homem em seu leito no meio das pessoas, exatamente na frente de Jesus. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **Now some men came carrying**  - These are new people in the story. Your language may have a way of showing that these are new people. English can also do it with “There were men who came carrying” or “There were men carrying.”
+  * <font inherit/inherit;;#B22222;;inherit>** Agora alguns homens vieram carregando  ** - Estas são novas pessoas na história. Sua língua deve ter uma maneira de indicar que essas são novas pessoas. Inglês também pode fazer isso assim: "Havia homens que vieram carregando" ou "Havia homens carregando".</font>
+  * **mat**  - This could be translated as "sleeping pad" or "bed" or "stretcher" or "couch."
+  * <font inherit/inherit;;#B22222;;inherit>** leito  ** - Isto poderia ser traduzido como: "almofada de dormir" ou "cama" ou "maca" ou "sofá".</font>
+  * **was paralyzed**  - "could not move himself"
+  * <font inherit/inherit;;#B22222;;inherit>** era paralítico ** - "não podia mover-se".</font>
+  * **And not finding by what way they might bring him in because of the crowd**  - In some languages it might be more natural to reorder this. "But because of the crowd of people, they could not find a way to take the man inside. So…."
+  * <font inherit/inherit;;#B22222;;inherit>** e não achando uma maneira de levá-lo para dentro por causa da multidão ** - Em algumas línguas pode ser mais natural reordenar isso: "Mas por causa da multidão de pessoas, eles não puderam encontrar uma maneira de levar o homem para dentro. Assim...".</font>
+  * **they went up to the housetop**  - Houses had flat roofs, and some houses had a ladder or staircase outside to make it easy to go up there.
+  * <font inherit/inherit;;#B22222;;inherit>** eles subiram para o topo da casa ** - As casas tinham telhados planos, e algumas casas tinham uma escada ou escadaria para tornar fácil o acesso lá para cima.</font>
+  * **right in front of Jesus**  - "directly in front of Jesus" or "immediately in front of Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** bem em frente a Jesus  ** - "diretamente em frente a Jesus" ou "imediatamente em frente a Jesus".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:05:17|<<]] | [[:aoa:bible:notes:luk:05:20|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

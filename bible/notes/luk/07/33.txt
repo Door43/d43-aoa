@@ -1,0 +1,60 @@
+====== Luke 07:33-35-F ======
+
+===== TFT: =====
+
+<usfm> \v 33 \add Similarly, you people are dissatisfied with both John the Baptizer and me!\add* When John came and \add preached to you\add*, he did not eat \add ordinary\add* food \f + \ft synecdoche \f* or drink wine, \add like most people do\add*. But you \add rejected him\add*, saying, 'A demon is controlling him!' \v 34 In\add contrast\add*, \add I\add*, the one who came from heaven, eat \add the same food\add* and drink \add wine as others do\add*. But you \add reject me\add*, saying, 'Look! \add This man\add* eats too much food and drinks too much wine, and he associates with tax collectors and \add other\add* sinners!' \v 35 But those who are \add truly God's\add* children \f + \ft personification \f* realize that \add what John and I do is truly\add* wise."
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 33 Similarly, when John came to you and did not eat ordinary food or drink wine, you rejected him and said, 'A demon is controlling him!' \v 34 But when the Son of Man came to you and did eat ordinary food and drink wine as others do, you also rejected him and said, 'Look! This man eats too much food and drinks too much wine, and he associates with tax collectors and other sinners!' \v 35 But God's wisdom is proved right by those who follow it.
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 33 For John the Baptizer came not eating bread and not drinking wine, and you say, 'He has a demon.' \v 34 The Son of Man came eating and drinking and you say, 'Look, he is a gluttonous man and a drunkard, a friend of tax collectors and sinners!' \v 35 But wisdom is justified by all of her children." </usfm>
+===== Target ULB: =====
+33 João Batista veio, não comendo pão e nem bebendo vinho, e vocês disseram: 'Ele tem demônio.' 34 O Filho do Homem veio, comendo e bebendo, e vocês disseram: 'Olhem, ele é glutão e beberrão, amigo de coletores de impostos e pecadores!' 35 Mas a sabedoria é justificada por todos os seus filhos. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:johnthebaptist|John the Baptizer]]
+  * [[:aoa:bible:notes:key-terms:bread|bread]]
+  * [[:aoa:bible:notes:key-terms:wine|wine]]
+  * [[:aoa:bible:notes:key-terms:demon|demon]]
+  * [[:aoa:bible:notes:key-terms:sonofman|Son of Man]]
+  * [[:aoa:bible:notes:key-terms:taxcollector|tax collectors]]
+  * [[:aoa:bible:notes:key-terms:sin|sinners]]
+  * [[:aoa:bible:notes:key-terms:wise|wisdom]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Jesus continues speaking to the people. He explains why he compared them to children.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a falar para as pessoas. Ele explica porque ele as comparou à crianças).</font>
+  * **you say, 'He has a demon'**  - Jesus was quoting what people were saying about John. It can be translated as an indirect quote: "you say that he has a demon" or "you accuse him of having a demon." (See: [[:en:ta:translate:quotation|Speech Quotations]])
+  * <font inherit/inherit;;#B22222;;inherit>** vocês dizem: 'Ele tem demônio' ** - Jesus estava citando o que as pessoas estavam dizendo sobre João. Isto pode ser traduzido como uma citação indireta: "vocês dizem que ele tem demônio" ou "vocês o acusam de ter demônio".</font>
+  * **not eating bread**  - "not eating food." This can be translated as "frequently fasting." It does not mean that John never ate food.
+  * <font inherit/inherit;;#B22222;;inherit>** não comendo pão ** - "não comendo comida". Isto pode ser traduzido como: "jejuando frequentemente". Isto não significa que João nunca comeu comida.</font>
+  * **The Son of Man**  - Since Jesus expected the people there to understand that he was the Son of Man, it could also be translated as "I, the Son of Man."
+  * <font inherit/inherit;;#B22222;;inherit>** O Filho do Homem  ** - Considerando que Jesus esperava que as pessoas ali compreendessem que ele era o Filho do Homem, isto poderia também ser traduzido como: "Eu, o Filho do Homem".</font>
+  * **you say, 'Behold, he is a gluttonous man**  - Jesus was quoting what the people were saying about him as the Son of Man. This can be translated as an indirect quote: "you say that he is a gluttonous man" or "you accuse him of eating too much." If you translated "The Son of Man" as "I, the Son of man", the indirect quote could be translated as "you say that I am a gluttonous man."
+  * <font inherit/inherit;;#B22222;;inherit>** vocês dizem: 'Veja, ele é um glutão'  ** - Jesus estava citando o que as pessoas estavam dizendo sobre ele como o Filho do Homem. Isto pode ser traduzido como uma citação indireta: "vocês dizem que ele é um glutão" ou "vocês o acusam de comer muito". Se você traduzir "O Filho do Homem" como "Eu, o Filho do Homem", a citaçao indireta poderia ser traduzida como: "vocês dizem que eu sou um glutão".</font>
+  * **he is a gluttonous man**  - "he is a greedy eater" or "he habitually eats too much food"
+  * <font inherit/inherit;;#B22222;;inherit>** ele é um glutão  ** - "ele é um comedor ganancioso" ou "ele habitualmente come muita comida".</font>
+  * **a drunkard**  - "a drunk" or "a habitual drunk"
+  * <font inherit/inherit;;#B22222;;inherit>** um beberrão  ** - "um bêbado" ou "bêbado habitual".</font>
+  * **wisdom is justified by all of her children**  - This is probably a proverb that Jesus was applying to this situation, because the people who rejected both him and John were not being wise. (See: [[:aoa:bible:notes:key-terms:proverb|proverb]]) It can be translated with an active clause. "All of wisdom's children justify her." (See: [[:en:ta:translate:active|Active or Passive]]) Wisdom is treated as if it were a woman who has children. Wisdom's children are people who follow wisdom. (See: [[:en:ta:translate:personification|Personification]])
+  * <font inherit/inherit;;#B22222;;inherit>** a sabedoria é justificada por todos os seus filhos  ** - Isto é provavelmente um provérbio que Jesus está aplicando a esta situação porque as pessoas que rejeitaram ele e João não estavam sendo sábias. Isto pode ser traduzido com uma sentença ativa: "todos os filhos da sabedoria a justificam". A sabedoria é tratada como se fosse uma mulher que tem filhos. Os filhos da sabedoria são pessoas que seguem a sabedoria.</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:07:31|<<]] | [[:aoa:bible:notes:luk:07:36|>>]]**
+
+~~DISCUSSION~~{{tag>draft johnthebaptist sonofman }}
+
+~~NOCACHE~~

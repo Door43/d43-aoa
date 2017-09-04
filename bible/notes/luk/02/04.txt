@@ -1,0 +1,49 @@
+====== Luke 02:4-5*F ======
+
+===== TFT: =====
+
+<usfm> \v 4 So, because Joseph was a descendant of \add King\add* David, he went up from Nazareth, the town in Galilee \add district where he lived\add*, to Bethlehem town in Judea \add district\add*. That was the town where \add King\add* David \add grew up\add*. \v 5 Joseph went with Mary, who \add was considered\add* \f + \ft Or:whom \add people considered\add* \f* \add to be\add* his wife, who was now pregnant. They went so that they could put his name and Mary's name \add in the record book\add*. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 4-5 Joseph also traveled to his family's hometown, along with Mary who was engaged to him and was pregnant. Because Joseph was a descendant of King David, they left the town of Nazareth in the region of Galilee and traveled to the region of Judea, to the town of Bethlehem, which is also known as the city of David. Joseph and Mary went there to be registered in the public record. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 4 Joseph also departed from the city of Nazareth in Galilee and traveled to the Judean town of Bethlehem, which is known as the city of David, because he was a descendant from the family of David. \v 5 He went there to register along with Mary, who was engaged to him and was expecting a child. </usfm>
+
+===== Target ULB: =====
+**4**José partiu de Nazaré, na Galileia, até Belém, na Judeia, conhecida como Cidade de Davi, pois ele era descendente do Rei Davi.**5** José foi com sua noiva Maria para se registrarem, ela estava grávida.
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:josephnt|Joseph]]
+  * [[:aoa:bible:notes:key-terms:nazareth|Nazareth]]
+  * [[:aoa:bible:notes:key-terms:galilee|Galilee]]
+  * [[:aoa:bible:notes:key-terms:judea|Judean]]
+  * [[:aoa:bible:notes:key-terms:bethlehem|Bethlehem]]
+  * [[:aoa:bible:notes:key-terms:cityofdavid|city of David]]
+  * [[:aoa:bible:notes:key-terms:descendant|descendant]]
+  * [[:aoa:bible:notes:key-terms:david|David]]
+  * [[:aoa:bible:notes:key-terms:mary|Mary]]
+
+===== Translation Notes: =====
+
+  * **traveled to the Judean town of Bethlehem**  - This could be translated as "went up to the town of Bethlehem in Judea." Bethlehem was higher in elevation than Nazareth.
+  * <font inherit/inherit;;#B22222;;inherit>** viajou para a cidade de Belém da Judeia  ** - Isto pode ser traduzido como "subiu para a cidade de Belém, na Judéia." Belém era mais alta na elevação do que Nazaré.</font>
+  * **city of David **- Bethlehem was called a city because of its importance, not its size. King David was born there and there was a prophecy that the Messiah would be born there. "City of David" could be translated as "city of King David."
+  * <font inherit/inherit;;#B22222;;inherit>** cidade de Davi  ** - Belém era chamada de cidade por causa da sua importância, não por seu tamanho. Rei Davi nasceu lá e lá houve uma profecia de que o Messias iria nascer lá. "Cidade de Davi" poderia ser traduzida como "cidade do Rei Davi."</font>
+  * **to register**  - This could be translated as "to have his name written in the register" or "to be included in the count."
+  * <font inherit/inherit;;#B22222;;inherit>para registrar - Isto pode ser traduzido como "para ter o seu nome escrito no registro" ou "para ser incluído na contagem."</font>
+  * **along with Mary**  - Mary traveled with Joseph from Nazareth. It is likely that women were also taxed, so Mary would have needed to travel and be registered as well.
+  * <font inherit/inherit;;#B22222;;inherit>** juntamente com Maria  ** - Maria viajou com José de Nazaré. É provável que as mulheres também fossem tributadas, então Maria teria necessidade de viajar e ser registrada também.</font>
+  * **who was engaged to him**  - This could be translated as "his fiancée" or "who was promised to him." An engaged couple was considered legally married, but there would not have been physical intimacy between them.
+  * <font inherit/inherit;;#B22222;;inherit>** que estava comprometida com ele ** - Isto pode ser traduzido como "sua noiva" ou "que foi prometida a ele." Um casal de noivos era considerado legalmente casado, mas não havia intimidade física entre eles.</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:02:01|<<]] | [[:aoa:bible:notes:luk:02:06|>>]]**
+
+~~DISCUSSION~~{{tag>draft josephnt nazareth bethlehem cityofdavid david mary}}

@@ -1,0 +1,50 @@
+====== Luke 06:49*F ======
+
+===== TFT: =====
+
+<usfm> \v 49 But some people hear my messages but do not obey them. They are like a man who built a house on top of the ground without \add digging\add* a foundation. When the river flooded, the house collapsed immediately and was completely ruined. \add So it is important for you to obey what I teach you\add*." </usfm>
+
+===== UDB: =====
+
+<usfm> \v 49 But some people who hear my teachings do not obey them. They are like a man who built a house on top of the ground without building a foundation. When the river flooded, the house collapsed immediately and was completely ruined." </usfm>
+
+===== ULB: =====
+
+<usfm> \v 49 But the person who hears my words and does not obey them, he is like a man who built a house on top of the ground without a foundation. When the torrent of water flowed against that house, it immediately collapsed, and the ruin of that house was complete. </usfm>
+
+===== Target ULB: =====
+49 Mas aquele que ouve as minhas palavras e não as obedece, é como um homem que, construiu a sua casa sobre a terra, sem alicerce. Quando as águas do rio bateram com ímpeto contra a casa, ela desabou e sua ruína foi completa. 
+
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:word|word]]
+  * [[:aoa:bible:notes:key-terms:obey|obey]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Jesus continues to teach the crowd about the importance of obeying him.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar a multidão sobre a importância de obedecê-lo).</font>
+  * **a man who built a house…**  - *This metaphor now compares a man building a house without a foundation to a person who does not obey the teachings of Jesus. (See: [[:en:ta:figuresofspeech:metaphor|metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** um homem que construiu uma casa ** - Esta metáfora agora compara um homem construindo uma casa sem uma fundação à uma pessoa que não obedece os ensinos de Jesus.</font>
+  * **foundation**  - "base" or "support"
+  * <font inherit/inherit;;#B22222;;inherit>** fundação ** - "base" ou "suporte".</font>
+  * **without a foundation**  - This could be translated as "but he did not dig down and build a foundation first."
+  * <font inherit/inherit;;#B22222;;inherit>** sem uma fundação ** - Isto poderia ser traduzido como: "mas ele não cavou e construiu primeiro a fundação".</font>
+  * **torrent of water**  - "fast-moving water" or "river"
+  * <font inherit/inherit;;#B22222;;inherit>** torrente de água ** - "água com movimento rápido" ou "rio".</font>
+  * **flowed against**  - "crashed against"
+  * <font inherit/inherit;;#B22222;;inherit>** fluiu contra  ** - "bateu contra".</font>
+  * **collapsed**  - "fell down" or "came apart"
+  * <font inherit/inherit;;#B22222;;inherit>** desabou ** - "caiu" ou "se despedaçou".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:06:46|<<]] | [[:aoa:bible:notes:luk:07:01|>>]]**
+
+~~DISCUSSION~~{{tag>draft disobey parable}}
+
+~~NOCACHE~~

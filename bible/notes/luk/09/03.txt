@@ -1,0 +1,49 @@
+====== Luke 09:3-4  *F ======
+
+===== TFT: =====
+
+<usfm> \v 3 he said to them, "Do not take things for your journey. Do not take a walking stick or a \add traveler's\add* bag or food or money. Do not take an extra shirt\f + \ft Or: extra clothes \f*. \v 4 Whenever you enter some house \add to lodge there\add*, stay in that house until you leave that town. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 3 Before they left, he said to them, "Do not take anything with you for your journey. Do not take a walking stick or a traveler's bag or food or money. Do not even take an extra shirt. \v 4 Whatever house you enter, stay in that house until you leave that area. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 3 He said to them, "Take nothing for your journey–neither staff, nor wallet, nor bread, nor money–neither take two tunics. \v 4 Whatever house you enter into, stay there until you leave from that place. </usfm>
+
+===== Target ULB: =====
+
+3 Ele disse a eles: “Não levem nada para sua jornada, nem cajado, bolsa, pão ou dinheiro, nem mesmo levem duas túnicas. 4 Qualquer casa em que vocês entrarem, permaneçam nela até que vocês deixem aquela cidade. 
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:bread|bread]]
+  * [[:aoa:bible:notes:key-terms:tunic|tunic]]
+
+===== Translation Notes: =====
+
+  * **he said to them**  - "Jesus said to the twelve"
+  * <font inherit/inherit;;#B22222;;inherit>** ele disse a eles  ** - "Jesus disse aos doze"</font>
+  * **Take nothing **- This could be translated as "Do not take anything with you" or "Do not bring anything with you."
+  * <font inherit/inherit;;#B22222;;inherit>** Levem nada  ** - Isto pode ser traduzido como "Não levem nada com vocês" ou "Não traga nenhuma coisa com vocês."</font>
+  * **for your journey**  - "for your trip" or "when you travel." They are to take nothing for their entire trip, as they move from village to village, and until they come back to Jesus.
+  * <font inherit/inherit;;#B22222;;inherit>** para sua jornada  ** - "para sua viagem" ou "quando vocês viajarem." Eles não devem levar nada durante toda a viagem, enquanto eles se movem de vila à vila e até que eles voltem à Jesus.</font>
+  * **staff **- "rod" or "walking stick." A staff was a large stick that was a used for balance when climbing or on uneven ground. It could also be used for defense against attackers.
+  * <font inherit/inherit;;#B22222;;inherit>** cajado  ** - "vara" ou "bengala." Um cajado era uma vara comprida que era usada para equilíbrio ao escalar ou caminhar em um terreno irregular.</font>
+  * **whatever house you enter into**  - "any house you enter"
+  * <font inherit/inherit;;#B22222;;inherit>** seja qual for a casa em que vocês entrarem  ** - "Qualquer casa em que vocês entrarem"</font>
+  * **stay there**  - "remain there" or "temporarily live in that house as a guest"
+  * <font inherit/inherit;;#B22222;;inherit>** fiquem lá ** - "permaneçam lá" ou "morem temporariamente como hóspedes naquela casa"</font>
+  * **from that place**  - "from that town" or "from that area"
+  * <font inherit/inherit;;#B22222;;inherit>** daquele lugar ** - "daquela cidade" ou "daquela área"</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:09:01|<<]] | [[:aoa:bible:notes:luk:09:05|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

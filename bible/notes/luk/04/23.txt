@@ -1,0 +1,42 @@
+====== Luke 04:23-24*F ======
+
+===== TFT: =====
+
+<usfm> \v 23 He said to them, "Surely \add some of\add* you will quote to me the proverb that says, 'Doctor, heal yourself!' \add What you will mean is\add*, 'People told us that you did miracles in Capernaum \add town, but we\f + \ft exclusive \f* do not know if those reports are true. So\add* do miracles here in your own hometown, too!'" \v 24 Then he said, "It is certainly true that \add people\add* do not accept \add the message of\add* a prophet when he speaks in his hometown, \add just like you\f + \ft plural \f* are not accepting my message now\add*. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 23 He said to them, "Surely some of you will quote to me the proverb that says, 'Doctor, heal yourself!' You will say, 'Do here in your hometown the same kind of miracles that you did in Capernaum!'" \v 24 Then he said, "It is certainly true that the people in a prophet's own hometown do not accept his message. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 23 Jesus said to them, "Certainly you will say this proverb to me, 'Doctor, heal yourself. Whatever we heard that you did in Capernaum, do it here in your hometown too.'" \v 24 He also said, "Truly I say to you, no prophet is accepted in his own country. </usfm>
+===== Target ULB: =====
+23 Jesus disse a eles, “Certamente vocês vão me dizer o provérbio, 'Médico, cure a si mesmo. Faça em sua cidade natal tudo o que ouvimos que você fez em Cafarnaum.'” 24 Ele também disse, “Em verdade eu digo a vocês, nenhum profeta é aceito em sua própria cidade. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:proverb|proverb]]
+  * [[:aoa:bible:notes:key-terms:capernaum|Capernaum]]
+  * [[:aoa:bible:notes:key-terms:prophet|prophet]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **in your own hometown**  - This was in Nazareth, the town Jesus had grown up in.
+  * <font inherit/inherit;;#B22222;;inherit>** na sua própria cidade natal ** - Esta era Nazaré, a cidade em que Jesus cresceu.</font>
+  * **no prophet is accepted in his own country**  - Jesus was rebuking the people for refusing to believe him just because they thought they knew him.
+  * <font inherit/inherit;;#B22222;;inherit>** nenhum profeta é aceito em seu próprio país ** - Jesus estava repreendendo as pessoas por se recusarem a crer nele apenas porque elas pensavam que o conheciam.</font>
+  * **own country**  - This could be translated as "own town" or "hometown."
+  * <font inherit/inherit;;#B22222;;inherit>** seu próprio país ** - Isto pode ser traduzido como "sua própria cidade" ou "cidade natal".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:04:20|<<]] | [[:aoa:bible:notes:luk:04:25|>>]]**
+
+~~DISCUSSION~~{{tag>draft prophet}}
+
+~~NOCACHE~~

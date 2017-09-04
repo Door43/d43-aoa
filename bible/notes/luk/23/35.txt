@@ -1,0 +1,44 @@
+====== Luke 23:35   *F ======
+
+===== TFT: =====
+
+<usfm>
+\v 35 Many people stood nearby, watching. And the \add Jewish\add* leaders made fun of\f + \ft Or: ridiculed \f* \add Jesus\add*, saying, "He \add said\add* \f + \ft irony \f* \add that he\add* saved other people! If he is the Messiah, the one God has chosen, he should save himself!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 Many people stood nearby, watching. Even the Jewish leaders were mocking Jesus: “He saved other people! If God has really chosen him to be the Messiah, he should save himself!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm> \v 35 The people stood watching while the rulers also were mocking him, saying, "He saved others. Let him save himself, if he is the Christ of God, the chosen one." </usfm>
+
+===== Target ULB: =====
+
+35 O povo ficou observando enquanto as autoridades também zombavam dele, dizendo: “Salvou os outros, deixe ele salvar a si mesmo, se este é o Cristo de Deus, o escolhido.” 
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:mock|mocking]]
+  * [[:aoa:bible:notes:key-terms:save|save]]
+  * [[:aoa:bible:notes:key-terms:christ|Christ]]
+
+===== Translation Notes: =====
+
+  * **stood** - "were standing there"
+  * **him** - This refers to Jesus.
+  * **Let him save himself** - "Jesus should be able to save himself" or "We would like to see him prove who he is by saving himself from the cross"
+  * **the chosen one** - This could also be translated as "the one that God chose."
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:23:33|<<]] | [[:aoa:bible:notes:luk:23:36|>>]]**
+
+~~DISCUSSION~~{{tag>draft christ}}

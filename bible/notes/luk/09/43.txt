@@ -1,0 +1,52 @@
+====== Luke 09:43-45/  *F ======
+
+===== TFT: =====
+
+<usfm> \v 43 All the people \add there\add* were amazed at the great \add power\add* of God.
+
+\p While they were all amazed at all the miracles \add Jesus\add* was doing, he said to his disciples, \v 44 "Think carefully \f + \ft metonymy \f* about what I am about to tell you: \add Even though I am\add* the one who came from heaven, \add I will soon\add* be handed over to the authorities \f + \ft Or: my enemies \f* \f + \ft Or:\add someone\add* is about to enable \f + \ft metonymy \f* my enemies to seize me \f*." \v 45 But \add the disciples\add* did not understand what he was saying; \add God\add* prevented them from understanding it, so that they would not know \add yet\add* what he meant. And they were afraid to ask him about \add what he had said\add*.
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 43 Then all the people there were completely amazed at the great power of God. \p While they were all still in wonderment at all the miracles Jesus was doing, he said to his disciples, \v 44 "Listen carefully to what I am about to tell you: I, the Son of Man, will soon be handed over to my enemies." \v 45 But the disciples did not understand what he meant by this. God prevented them from understanding it, so that they would not know yet what he meant, and they were afraid to ask him about what he had said.
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 43 They were all amazed at the greatness of God. But while all were still marveling at all the things which he did, he said to his disciples, \v 44 "Let these words go deeply into your ears, for the Son of Man will be delivered over into the hands of men." \v 45 But they did not understand what this statement meant, and it was concealed from them, so they could not understand it. They were afraid to ask him about that statement. </usfm>
+
+===== Target ULB: =====
+
+43 Todos ficaram maravilhados com a grandeza de Deus. Mas enquanto todos ainda estavam admirados com tudo o que Jesus fez, ele disse aos seus discípulos: 44 “Ouçam com atenção e não esqueçam, pois o Filho do Homem será entregue nas mãos dos homens.” 45 Mas eles não entenderam o que Jesus queria dizer com esta palavra, e isto foi escondido deles, para que não entendessem. E estavam com medo de perguntá-lo sobre esta palavra 
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:god|God]]
+  * [[:aoa:bible:notes:key-terms:disciple|disciples]]
+  * [[:aoa:bible:notes:key-terms:sonofman|Son of Man]]
+
+===== Translation Notes: =====
+
+  * **they were all amazed at the greatness of God**  - Jesus performed the miracle, but the crowd recognized that God was the power behind the healing.
+  * <font inherit/inherit;;#B22222;;inherit>** Todos ficaram maravilhados com a grandeza de Deus ** - Jesus realizou o milagre, mas a multidão reconheceu que Deus era o poder por trás da cura.</font>
+  * **which he did**  - "that Jesus did"
+  * <font inherit/inherit;;#B22222;;inherit>** o que ele fez ** - "que Jesus fez"</font>
+  * **Let these words go deeply into your ears**  - This is an idiom that means "Listen carefully and remember" or "Do not forget this." (See: [[:en:ta:figuresofspeech:idiom|idiom]])
+  * <font inherit/inherit;;#B22222;;inherit>** Deixem estas palavras entrarem profundamente em seus ouvidos  ** - Esta é uma expressão idiomática que significa "Ouçam com atenção e lembrem-se" ou "Não esqueçam isto." (Veja: Expressão Idiomática)</font>
+  * **the Son of Man**  - Jesus is speaking about himself in the third person. This can be translated as "I, the son of Man." (See: [[:en:ta:vocabulary:123person|123person]])
+  * <font inherit/inherit;;#B22222;;inherit>** o Filho do Homem ** - Jesus está falando sobre si mesmo na terceira pessoa. Isto pode ser traduzido como "Eu, o Filho do Homem." (Veja: 123pessoa)</font>
+  * **delivered over into the hands**  - "handed over to" (UDB). This entire sentence can be translated as "Men will hand the Son of Man over to the authorities."
+  * <font inherit/inherit;;#B22222;;inherit>** entregue nas mãos ** - "entregue a" (UDB). Toda esta sentença pode ser traduzida como "Os homens vão entregar o Filho do Homem para as autoridades."</font>
+  * **they did not understand**- This could be translated as "they did not know he was talking about his death."
+  * <font inherit/inherit;;#B22222;;inherit>** eles não entenderam ** - Isto pode ser traduzido como "eles não sabiam que eles estava falando sobre sua morte."</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:09:41|<<]] | [[:aoa:bible:notes:luk:09:46|>>]]**
+
+~~DISCUSSION~~{{tag>draft sonofman}}

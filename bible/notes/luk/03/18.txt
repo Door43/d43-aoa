@@ -1,0 +1,52 @@
+====== Luke 03:18-20*F ======
+
+===== TFT: =====
+
+<usfm> \v 18 John kept telling them many things to urge them \add to turn to God\add*, as he told them the good message \add from God\add*. \v 19 He also rebuked \add the ruler of the district\add*, Herod \add Antipas. He rebuked him\add* for \add marrying\add* Herodias, his brother's wife, \add while his brother was still alive\add*, and for doing many other evil things. \v 20 But Herod \add had his soldiers\add* put John in prison. That was another evil thing he did.
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 18 In many different ways like this, John urged the people to repent and turn back to God, as he kept telling them the good message from God. \v 19 He also rebuked King Herod for marrying his brother's wife, Herodias, while his brother was still alive, and for doing many other evil things. \v 20 Then Herod had his soldiers put John in prison, which was another very evil thing. </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 18 With many other exhortations also, he preached good news to the people. \v 19 John also rebuked Herod the tetrarch for marrying his brother’s wife, Herodias, and for all the other evil things that Herod had done. \v 20 But then Herod did another very evil thing. He had John locked up in prison. </usfm>
+===== Target ULB: =====
+
+18 Com muitas outras formas, João exortava o povo e pregava as boas novas. 19 E repreendeu Herodes o tetrarca por ter se casado com a mulher do seu irmão, Herodinas, e por muitas coisas más que ele havia feito. 20 Mas então Herodes fez outra coisa muito má. Ele lançou João na prisão. 
+
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:exhort|exhortation]]
+  * [[:aoa:bible:notes:key-terms:preach|preach]]
+  * [[:aoa:bible:notes:key-terms:goodnews|good news]]
+  * [[:aoa:bible:notes:key-terms:johnthebaptist|John]]
+  * [[:aoa:bible:notes:key-terms:herodantipas|Herod]]
+  * [[:aoa:bible:notes:key-terms:tetrarch|tetrarch]]
+  * [[:aoa:bible:notes:key-terms:prison|prison]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **with many other exhortations**  - This could be translated as "with many other strong urgings" or "John encouraged the people many times to repent and…"
+  * <font inherit/inherit;;#B22222;;inherit>** com muitas outras exortações ** - Isto poderia ser traduzido como: "com muitos outros apelos fortes" ou "João encorajou as pessoas por muitas vezes a se arrependerem. e..</font> .".
+  * **rebuked Herod the tetrarch**  - "told Herod the tetrarch that he had sinned." Herod was a tetrarch, not a king. He had only limited rule over the region of Galilee.
+  * <font inherit/inherit;;#B22222;;inherit>** repreendeu Herodes, o tetrarca ** - "disse para Herodes, o tetrarca, que ele havia pecado". Herodes era um tetrarca, não um rei. Ele tinha apenas um governo limitado sobre a região da Galileia.</font>
+  * **for marrying his brother's wife**  - "because Herod married his own brother's wife"
+  * <font inherit/inherit;;#B22222;;inherit>** por ter casado com a esposa de seu irmão ** - "porque Herodes tinha se casado com a esposa do seu próprio irmão".</font>
+  * **he had John locked up in prison**  - "he told his soldiers to put John in jail"
+  * <font inherit/inherit;;#B22222;;inherit>** ele lançou João na prisão ** - "ele disse aos seus soldados para colocar João na prisão".</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:03:17|<<]] | [[:aoa:bible:notes:luk:03:21|>>]]**
+
+~~DISCUSSION~~{{tag>draft exhort goodnews johnthebaptist herodantipas tetrarch}}
+
+~~NOCACHE~~

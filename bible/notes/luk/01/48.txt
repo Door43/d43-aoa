@@ -1,0 +1,53 @@
+====== Luke 01:48-49*F ======
+
+===== TFT: =====
+
+<usfm> \v 48 I was only his lowly servant girl, but he did not forget me. \q1 So from now on, people living in all ages\f + \ft Or: future time \f* will say that God was pleased with me, \q1 \v 49 because they will hear about the things that God \f + \ft metonymy \f*, the mighty one, has done for me. \q1 He \f + \ft metonymy \f* is awesome! \q1 </usfm>
+
+===== UDB: =====
+
+<usfm> \v 48 I was only his lowly servant girl, but he did not forget me. \q So from now on, people living in all time periods will say that God has blessed me. \q \v 49 They will say this because of the great things that God, the Powerful One, has done for me. \q His name is holy!
+
+\q </usfm>
+
+===== ULB: =====
+
+<usfm> \q \v 48 For he has paid attention to the lowly position of his servant. \q From now on all generations will call me blessed, \q \v 49 For the Mighty One has done great things for me; \q And his name is holy. </usfm>
+
+===== Target ULB: =====
+48 Pois Ele prestou atenção em mim sua humilde serva. A partir de agora todas as gerações me chamarão abençoada, 49 porque o Poderoso fez grandes coisas por mim ; E seu nome é Santo. 
+
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:servant|servant]]
+  * [[:aoa:bible:notes:key-terms:bless|blessed]]
+  * [[:aoa:bible:notes:key-terms:god|God]]
+  * [[:aoa:bible:notes:key-terms:holy|holy]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Mary continues to praise God:)
+  * <font inherit/inherit;;#B22222;;inherit>(Maria continua a louvar a Deus)</font>
+  * **lowly**  - "unimportant" or "ordinary" or "simple" or "poor." Mary did not have high social standing.
+  * <font inherit/inherit;;#B22222;;inherit>** modesta ** - "sem importância" ou "ordinária" ou "pobre". Maria não tinha alta posição social.</font>
+  * **paid attention**  - "thought about" or "remembered." It could be translated as "did not forget." This is not an issue of God's ability to remember, but his choosing to remember.
+  * <font inherit/inherit;;#B22222;;inherit>** prestou atenção ** - "pensou sobre" ou "se lembrou". Isto poderia ser traduzido como: "não esqueceu". Isso não se refere à habilidade de Deus se lembrar, mas à sua escolha em se lembrar.</font>
+  * **from now on**  - “now and in the future”
+  * <font inherit/inherit;;#B22222;;inherit>** de agora em diante ** - "agora e no futuro".</font>
+  * **the Mighty One**  - This refers to God. It could be translated as "God, the Powerful One."
+  * <font inherit/inherit;;#B22222;;inherit>** O Poderoso ** - Isto se refere a Deus. Poderia ser traduzido como: "Deus, o Poderoso".</font>
+  * **his name**  - "he"
+  * <font inherit/inherit;;#B22222;;inherit>** nome dele ** - "ele".</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:01:46|<<]] | [[:aoa:bible:notes:luk:01:50|>>]]**
+
+~~DISCUSSION~~{{tag>draft servant bless name holy}}
+
+~~NOCACHE~~

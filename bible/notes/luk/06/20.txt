@@ -1,0 +1,46 @@
+====== Luke 06:20-21*F ======
+
+===== TFT: =====
+
+<usfm> \v 20 He looked \f + \ft metonymy \f* at his disciples and said, "\add God\add* is pleased with you \add who know\add* that you lack what \add he wants you to have;\add* he will allow you to be the people whose lives he rules over. \v 21 \add God\add* is pleased with you who sincerely desire to receive what \f + \ft metonymy \f* \add he wants you to have\add*; he will give you what you need, until you are satisfied. \p \add God\add* is pleased with you that grieve now \add because of sin\add*. Later you will be joyful. \p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 20 Then he looked at his disciples and said, "It is very good for you who are poor, because God is ruling you. \v 21 It is very good for you who are hungry now, because God will give you everything you need. \p It is very good for you who are grieving now, because God will someday make you laugh with joy.
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 20 Then he looked at his disciples, and said, "Blessed are you who are poor, for yours is the kingdom of God. \v 21 Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh. </usfm>
+===== Target ULB: =====
+20 Então ele olhou para os seus discípulos e disse: “Bem-aventurados vocês que são pobres, pois o reino de Deus é de vocês. 21 Bem-aventurados vocês que agora tem fome, pois vocês serão saciados. Bem-aventurados vocês que agora choram, pois vocês sorrirão. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:disciple|disciple]]
+  * [[:aoa:bible:notes:key-terms:bless|blessed]]
+  * [[:aoa:bible:notes:key-terms:kingdomofgod|kingdom of God]]
+  * [[:aoa:bible:notes:key-terms:filled|filled]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **blessed are you**  - This phrase is repeated three times. Each time, it indicates that God gives favor to someone or that their situation is positive or good.
+  * <font inherit/inherit;;#B22222;;inherit>** bem aventurados são vocês ** - Esta frase é repetida três vezes. Cada vez indica que Deus favorece a alguém ou que a situação delas é positiva ou boa.</font>
+  * **blessed are you who are poor**  - "You who are poor receive God's favor" or "you who are poor benefit" or "how good it is for you who who are poor" or "It is very good for you who are poor"
+  * <font inherit/inherit;;#B22222;;inherit>** bem aventurados são vocês que são pobres ** - "Vocês que são pobres recebam o favor de Deus" ou "vocês que são pobres se beneficiem" ou "é muito bom para vocês que são pobres".</font>
+  * **yours is the kingdom of God**  - "the kingdom of God belongs to you." This could mean 1) "you belong to God's kingdom" or 2) "you will have authority in God's kingdom." Languages that don't have a word for kingdom might say "God is your king" or "God is your ruler."
+  * <font inherit/inherit;;#B22222;;inherit>** de vocês é o reino de Deus ** - "o reino de Deus pertence a vocês". Isto poderia significar: 1) "vocês pertencem ao reino de Deus" ou 2) "vocês terão autoridade no reino de Deus". Línguas que não têm uma palavra para "reino" podem dizer: "Deus é o seu rei" ou "Deus é o seu governante".</font>
+  * **you will laugh**  - "you will laugh with joy" or "you will be joyful"
+  * <font inherit/inherit;;#B22222;;inherit>** vocês irão sorrir ** - "vocês irão sorrir de alegria" ou "vocês serão alegres".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:06:17|<<]] | [[:aoa:bible:notes:luk:06:22|>>]]**
+
+~~DISCUSSION~~{{tag>draft bless}}
+
+~~NOCACHE~~

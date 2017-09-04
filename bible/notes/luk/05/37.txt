@@ -1,0 +1,53 @@
+====== Luke 05:37-39*F ======
+
+===== TFT: =====
+
+<usfm> \v 37 Neither does anyone put freshly-\add squeezed\add* grape juice into old skin bags \add to store it\add*. If anyone did that, the grape juice would burst the skin bags \add because they would not stretch when the\add* new \add wine ferments and expands. Then\add* the skin bags would be ruined, and\add the wine\add* would\add also\add* be spilled. \v 38 On the contrary, new wine must be put into new wineskins. \p \v 39 Furthermore, those who have drunk \add only\add* old wine \add are content with that\add*. They do not want to drink the new wine, because they say, 'The old wine is \f + \ft metaphor \f* good!'~" </usfm>
+
+===== UDB: =====
+
+<usfm> \v 37 And no one puts newly-squeezed wine into old skin bags to store it. If anyone did that, the skin bags would tear open because they would not stretch when the new wine fermented and expanded. Then the skin bags would be ruined, and the wine would also be ruined because it would spill out.. \v 38 On the contrary, new wine must be put into new skin bags. \p \v 39 Furthermore, those who have drunk only old wine are content with that. They do not want to drink the new wine, because they say, 'The old wine is good!'" </usfm>
+
+===== ULB: =====
+
+<usfm> \v 37 Also, no man puts new wine into old wineskins. If he did that, the new wine would burst the skins, and the wine would be spilled, and the wineskins would be destroyed. \v 38 But new wine must be put into fresh wineskins. \v 39 No man, after drinking old wine, desires new wine, because he says, 'The old is better.'" </usfm>
+
+===== Target ULB: =====
+37 Ninguém coloca vinho novo em odre velho. Se fizer isto, o vinho novo romperá o odre e se derramará e o odre será destruído. 38 Mas vinho novo, deve ser colocado em odre novo. 39 Ninguém após tomar vinho velho deseja tomar o vinho novo, pois diz: “O velho é melhor.” 
+
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:wine|wine]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Jesus tells the religious leaders another parable.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus fala para os líderes religioso outra parábola)</font>
+  * **no man puts**  - "no one puts" (UDB) or "people never put"
+  * <font inherit/inherit;;#B22222;;inherit>** nenhum homem coloca ** - "ninguém coloca" (UDB) ou "pessoas nunca colocam".</font>
+  * **new wine**  - "grape juice." This refers to wine that has not fermented yet.
+  * <font inherit/inherit;;#B22222;;inherit>** vinho novo  ** - "suco de uva". Isto se refere ao vinho que ainda não fermentou.</font>
+  * **wineskins**  - These were bags made out of animal skins. They could also be called "wine bags" or "skin bags" (UDB).
+  * <font inherit/inherit;;#B22222;;inherit>** odres ** - Estas eram bolsas feitas com peles de animais. Elas também podem ser chamadas de "bolsas de vinho" ou "bolsas de couro".</font>
+  * **the new wine would burst the skins**  - "when the new wine ferments and expands, it would burst the old skins because they could no longer stretch out." Jesus' audience would have understood the implicit information about the wine fermenting and expanding. (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** o vinho novo romperá o odre ** - "quando o vinho novo fermenta e se expande, ele irá romper o odre velho porque ele não tem mais condições de se expandir". A audiência de Jesus teria entendido a informação implícita sobre o vinho fermentando e se expandindo.</font>
+  * **the wine would be spilled**  - "the wine would spill out of the bags"
+  * <font inherit/inherit;;#B22222;;inherit>** o vinho iria derramar ** - "o vinho iria derramar das bolsas".</font>
+  * **fresh wineskins**  - "new wineskins" or "new wine bags." This refers to wineskins that have not been used.
+  * <font inherit/inherit;;#B22222;;inherit>** odres frescos ** - "novos odres" ou "novas bolsas de vinho". Isto se refere a odres que não haviam sido usados.</font>
+  * **old wine**  - "wine that has fermented"
+  * <font inherit/inherit;;#B22222;;inherit>** vinho velho ** - "vinho que foi fermentado".</font>
+  * **he says, 'The old is better'**  - It may be helpful to add "and is therefore not willing to try the new wine." This is a metaphor that contrasts the old teaching of the religious leaders against the new teaching of Jesus. The point is that people who is used to the old teaching are not willing to listen to the new things that Jesus is teaching. (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** ele diz: 'o velho é melhor' ** - Pode ser possível adicionar "e portando não é desejável experimentar o vinho novo". Esta é uma metáfora que contrasta o velho ensino dos líderes religiosos com o novo ensino de Jesus. A questão é que as pessoas que estão acostumadas ao ensino antigo não estão dispostas a ouvir as coisas novas que Jesus está ensinando.</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:05:36|<<]] | [[:aoa:bible:notes:luk:06:01|>>]]**
+
+~~DISCUSSION~~{{tag>draft wine}}
+
+~~NOCACHE~~

@@ -1,0 +1,47 @@
+====== Luke 04:5-7*F ======
+
+===== TFT: =====
+
+<usfm> \v 5 Then the devil took him on top of \add a high mountain\add* and showed him in an instant all the nations in the world. \v 6 Then he said to \add Jesus\add*, "I will give you the authority \add to rule\add* all these areas and will make you famous. \add I can do this\add* because \add God\add* has permitted me \add to control these areas\add*, and I can allow anyone I desire to rule them! \v 7 So if you worship me, I will \add let\add* you \add rule\add* them all!" </usfm>
+
+===== UDB: =====
+
+<usfm> \v 5 Then the devil took Jesus up to the top of a high mountain and showed him in an instant all the nations in the world. \v 6 Then he said to Jesus, "I will give you the right to rule all these nations and you will possess all their splendor and wealth. God has permitted me to control them all, and so I can do whatever I want to do with them. \v 7 So if you worship me, I will let you rule them all!" </usfm>
+
+===== ULB: =====
+
+<usfm> \v 5 Then the devil led him up to a high place, and showed him all the kingdoms of the world in a moment of time. \v 6 The devil said to him, "I will give to you the authority to rule all of these kingdoms, along with all their splendor. I can do this because they have been given to me to rule over, and I can give them to anyone I want to. \v 7 Therefore if you will bow down before me and worship me, all of this will be yours." </usfm>
+===== Target ULB: =====
+5 Então o diabo o guiou até um lugar alto, instantaneamente mostrou todos os reinos do mundo 6 e disse, “Eu te darei autoridade para dominar sobre todos estes reinos, com todo o seu esplendor. Pois, a mim foram dados, e eu posso dá-los a quem eu quiser. 7 Portanto, se você se prostrar em minha presença e me adorar, tudo isto será seu.” 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:satan|devil]]
+  * [[:aoa:bible:notes:key-terms:kingdom|kingdom]]
+  * [[:aoa:bible:notes:key-terms:authority|authority]]
+  * [[:aoa:bible:notes:key-terms:glory|splendor]]
+  * [[:aoa:bible:notes:key-terms:worship|worship]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **a high place**  - "a high mountain"
+  * <font inherit/inherit;;#B22222;;inherit>** um lugar alto ** - "uma montanha alta".</font>
+  * **in a moment of time**  - "in an instant" or "instantly"
+  * <font inherit/inherit;;#B22222;;inherit>** em um momento ** - "em um instante" ou "instantaneamente".</font>
+  * **Therefore**  - "So"
+  * <font inherit/inherit;;#B22222;;inherit>** Portanto ** - "Assim".</font>
+  * **if you will bow down before me and worship me**  - This could be translated as "if you will kneel before me" or "if you will bow down to worship me" or "if you will worship me by bowing down to me."
+  * <font inherit/inherit;;#B22222;;inherit>** se você se prostrar diante de mim e me adorar ** - Isto pode ser traduzido como: "se você se ajoelhar diante de mim" ou "se você se prostrar para me adorar" ou "se você me adorar se prostando diante de mim".</font>
+  * **all of this will be yours**  - This could be translated as "I will give all these kingdoms to you."
+  * <font inherit/inherit;;#B22222;;inherit>** tudo isso será seu ** - Isto pode ser traduzido como: "Eu darei todos esses reinos a você".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:04:03|<<]] | [[:aoa:bible:notes:luk:04:08|>>]]**
+
+~~DISCUSSION~~{{tag>draft satan worship}}
+
+~~NOCACHE~~

@@ -1,0 +1,46 @@
+====== Luke 08:34-35-F ======
+
+===== TFT: =====
+
+<usfm> \v 34 When the men who were taking care of the pigs saw what happened, they ran! They told people inside the town and outside the town what had happened. \v 35 So people went out to see what had happened. When they came to where Jesus was, they saw that the man from whom Jesus had \add expelled\add* the demons was sitting at the feet of Jesus, \add listening to him\add*. He had clothes on, and his mind was normal again. Then those people became afraid \add because they thought that he would destroy more of their property\add* \f + \ft Or: \add because they realized that he must be very powerful\add* \f*. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 34 When the men who were taking care of the pigs saw what happened, they ran away! They reported what they had seen to people in the town and in the countryside. \v 35 Then the people went out to see what had happened. When they came to where Jesus was, they saw that the man from whom the demons had gone out was sitting at the feet of Jesus, listening to him. They saw that he had clothes on, and that his mind was normal again, and they became afraid. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 34 When the men who were tending the pigs saw what had happened, they fled and reported it in the city and out in the countryside. \v 35 So the people who heard about it went out to see what had happened, and they came to Jesus and found the man from whom the demons had gone out. He was clothed and in his right mind, sitting at the feet of Jesus, and they were afraid. </usfm>
+===== Target ULB: =====
+34 Quando os homens que estavam cuidando dos porcos viram o que aconteceu, eles fugiram e relataram isto na cidade e nos campos. 35 As pessoas que ouviram sobre isto foram ver o que aconteceu, quando se aproximaram de Jesus elas viram o homem de quem os demônios saíram. Ele estava vestido, são, sentado aos pés de Jesus, e eles ficaram com medo. 
+-----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:demon|demons]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **they fled**  - "they quickly ran away"
+  * <font inherit/inherit;;#B22222;;inherit>** eles fugiram ** - "eles fugiram rapidamente".</font>
+  * **found the man from whom the demons had gone out**  - "saw the man whom the demons had left"
+  * <font inherit/inherit;;#B22222;;inherit>** encontraram o homem de quem os demônios haviam saído ** - "viram o homem cujos demônios haviam deixado".</font>
+  * **He was clothed**  - "He was wearing clothes"
+  * <font inherit/inherit;;#B22222;;inherit>** Ele estava vestido ** - "Ele estava vestindo roupas".</font>
+  * **in his right mind**  - "he was sane" or "he was behaving normally"
+  * <font inherit/inherit;;#B22222;;inherit>** em seu perfeito juízo ** - "ele estava são" ou "ele estava se comportando normalmente".</font>
+  * **sitting at the feet of Jesus**  - This can also be translated as "sitting on the ground, listening to Jesus."
+  * <font inherit/inherit;;#B22222;;inherit>** sentado aos pés de Jesus ** - Isto também pode ser traduzido como: "sentado no chão, escutando Jesus".</font>
+  * **they were afraid**  - "they were afraid of Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** eles estavam com medo  ** - "eles estavam com medo de Jesus".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:08:32|<<]] | [[:aoa:bible:notes:luk:08:36|>>]]**
+
+~~DISCUSSION~~{{tag>draft fear report}}
+
+~~NOCACHE~~

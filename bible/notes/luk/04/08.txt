@@ -1,0 +1,51 @@
+====== Luke 04:8*F ======
+
+===== TFT: =====
+
+<usfm> \v 8 But Jesus replied, " No, I will not worship you, because it is written in the Scriptures, 'It is the Lord, God, whom you must worship, and you must serve only him!'" \p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 8 But Jesus replied, "No, I will not worship you, because it is written in the scriptures, 'You must only worship the Lord, your God. He is the only one you may serve!'"
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 8 But Jesus and said to him, "It is written, 'You must worship the Lord your God, and you must serve him only.'" </usfm>
+
+===== Target ULB: =====
+
+8 Mas Jesus respondeu e disse, “Esta escrito, 'Adore somente o Senhor seu Deus, sirva somente a Ele.'” 
+
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:worship|worship]]
+  * [[:aoa:bible:notes:key-terms:lordgod|Lord God]]
+  * [[:aoa:bible:notes:key-terms:serve|serve]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **and said to him**- "responded to him" or "replied to him"
+  * <font inherit/inherit;;#B22222;;inherit>** e disse a ele  ** - "respondeu-o" ou "respondeu para ele".</font>
+  * **It is written**  - This could be as “it is written in the scriptures” or “the scriptures say” or “in the scriptures God said.”
+  * <font inherit/inherit;;#B22222;;inherit>** está escrito ** - Isto pode ser traduzido como: "está escrito nas escrituras" ou "as escrituras dizem" ou "nas escrituras Deus diz".</font>
+  * **You must worship the Lord your God**  - Jesus was a law from the scriptures to say why he would not worship the devil.
+  * <font inherit/inherit;;#B22222;;inherit>** você deve adorar o Senhor seu Deus ** - Jesus usou uma lei das escrituras para dizer que ele não deveria adorar o diabo.</font>
+  * **you**  - This refers to the people in the Old Testament who received God's Law. You could use the singular form of 'you' because each person was to obey it, or you could use the plural form of 'you' because all of the people were to obey it. (See: [[:en:ta:translate:formsofyou|Forms of 'You']])
+  * <font inherit/inherit;;#B22222;;inherit>** você ** - Isto se refere às pessoas no Antigo Testamento que receberam a Lei de Deus. Você pode usar a forma singular "você" porque cada pessoa deveria obedecê-la, ou você pode usar a forma plura "vocês" porque todas as pessoas deveriam obedecê-la.</font>
+  * **him**  - This refers to the Lord God.
+  * <font inherit/inherit;;#B22222;;inherit>** ele ** - Isto se refere a Senhor Deus.</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:04:05|<<]] | [[:aoa:bible:notes:luk:04:09|>>]]**
+
+~~DISCUSSION~~{{tag>draft worship serve}}
+
+~~NOCACHE~~

@@ -1,0 +1,42 @@
+====== Luke 08:22-23-F ======
+
+===== TFT: =====
+
+<usfm> \v 22 One day Jesus got into a boat with his disciples. He said to them, "Let's go \add around to\add* the other side of the lake." So they started to go. \v 23 As they were sailing, he fell asleep. A big windstorm came down on the lake. Soon the boat was filling with water, and they were in danger. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 22 On another day Jesus got into a boat with his disciples. He said to them, "I would like us to go across to the other side of the lake." So they started to sail across the lake. \v 23 But as they were sailing, Jesus fell asleep. Then a powerful windstorm came down on the lake. Soon the boat was filling with water, and they were in danger. </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 22 Now it happened on one of those days that Jesus and his disciples entered into a boat, and he said to them, "Let us go over to the other side of the lake." Then they set sail. \v 23 But as they sailed, Jesus fell asleep, and a storm of very strong winds came up over the lake, and their boat started filling up with water, and they were in serious danger. </usfm>
+===== Target ULB: =====
+22 Aconteceu que em um daqueles dias Jesus e os seus discípulos entraram em um barco, e Jesus disse a eles: “Vamos para o outro lado do lago”. Então eles zarparam. 23 Mas, enquanto eles navegavam, Jesus dormiu e uma tempestade de ventos fortes atingiu o lago e o barco começou a se encher de água, e eles estavam em grave perigo. 
+-----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:disciple|disciple]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **Now it happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** Agora aconteceu que ** - Esta frase é usada aqui para marcar o início de uma nova parte da história. Se sua língua tem uma maneira de fazer isso, você deve considerar usá-la aqui.</font>
+  * **as they sailed**  - "as they went"
+  * <font inherit/inherit;;#B22222;;inherit>** enquanto eles navegavam ** - "enquanto eles iam"</font>
+  * **fell asleep**  - "slept"
+  * <font inherit/inherit;;#B22222;;inherit>** adormeceu  ** - "dormiu"</font>
+  * **a storm of very strong winds came up**  - "very strong winds suddenly began to blow"
+  * <font inherit/inherit;;#B22222;;inherit>** surgiu uma tempestade de ventos fortes ** - "ventos muito fortes de repente começaram a soprar".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:08:19|<<]] | [[:aoa:bible:notes:luk:08:24|>>]]**
+
+~~DISCUSSION~~{{tag>draft disciple}}
+
+~~NOCACHE~~

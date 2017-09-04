@@ -1,0 +1,47 @@
+====== Luke 09:54-56/ *F ======
+
+===== TFT: =====
+
+<usfm> \v 54 When two of his disciples, James and John, heard about that, they said, "Lord, do you\add \f + \ft singular \f*\add* want us\add \f + \ft exclusive \f*\add* to pray that \add God\add* will send fire down from heaven, \add as the prophet Elijah did long ago\add*, and destroy those people?" \v 55 But Jesus turned and rebuked them \add for saying that\add*. \v 56 So they went to a different village.
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 54 When two of his disciples, James and John, heard that, they said, "Lord, do you want us to ask God to send fire down from heaven to destroy those people?" \v 55 But Jesus turned to them and sternly told them they were wrong to say that. \v 56 So they went to a different village.
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 54 Then when his disciples James and John saw this, they said, "Lord, do you want us to command fire to come down from heaven and destroy them?" \v 55 But he turned and rebuked them. \v 56 Then they went on to another village. </usfm>
+
+===== Target ULB: =====
+
+54 Então quando seus discípulos Tiago e João viram isso, eles disseram: “Senhor, você quer que ordenemos que caia fogo dos céus e os destrua?” 55 Mas Jesus se virou e os repreendeu. Então foram a uma outra vila. 
+
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jamessonofzebedee|James (son of Zebedee)]]
+  * [[:aoa:bible:notes:key-terms:johntheapostle|John (the apostle)]]
+  * [[:aoa:bible:notes:key-terms:heaven|heaven]]
+
+===== Translation Notes: =====
+
+  * **saw this**  - "saw that the Samaritans did not receive Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** viram isso  ** - "viram que os samaritanos não receberam Jesus"</font>
+  * **command fire to come down from heaven and destroy them**  - James and John suggested this method of judgment because they kew that this was how the prophets such as Elijah had judged people who rejected God. (See: [[:en:ta:discourse:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** ordenemos que caia fogo dos céus e os destrua  ** - Tiago e João sugerem este método de julgamento porque eles sabiam que era assim que os profetas, como Elias, haviam julgado pessoas que rejeitaram Deus. (Veja: Informação Explícita e Implícita)</font>
+  * **he turned and rebuked them**  - "Jesus turned and rebuked James and John." Jesus did not condemn the Samaritans, as the disciples expected.
+  * <font inherit/inherit;;#B22222;;inherit>** ele se virou e os repreendeu ** - "Jesus se virou e repreendeu Tiago e João." Jesus não condenou os samaritanos, como os discípulos esperavam.</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:09:51|<<]] | [[:aoa:bible:notes:luk:09:57|>>]]**
+
+~~DISCUSSION~~{{tag>draft disciple}}
+
+~~NOCACHE~~

@@ -1,0 +1,64 @@
+====== Luke 01:26-29*F ======
+
+===== TFT: =====
+
+<usfm> \v 26 When Elizabeth had been \add pregnant\add* \f + \ft euphemism \f* \add for almost\add* six months, the angel Gabriel was sent by God \f + \ft Or:God sent the angel Gabriel \f* \add again\add*. \v 27 \add This time\add* he went to Nazareth \add town\add* in Galilee \add district\add*, to a virgin whose name was Mary. It had been \f + \ft Or:\add Her parents\add* had \f* promised that she would marry a man named Joseph, who was descended from \add King\add* David. \v 28 The angel said to her, "Greetings! The Lord\f + \ft Or: God \f* is with you\add \f + \ft singular \f*\add* and you will be greatly blessed \f + \ft Or:\add has decided to\add* greatly bless you \f*!" \v 29 But Mary was greatly confused \add when she heard\add* that. She wondered what \add the angel meant\add* by these words. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 26 When Elizabeth had been pregnant for almost six months, God sent the angel Gabriel to the town of Nazareth in the district of Galilee. \v 27 He went there to speak to a virgin named Mary. She was engaged to be married to a man named Joseph, who was a descendent of King David. The virgin's name was Mary. \v 28 The angel said to her, "Greetings! The Lord is with you and has shown great kindness to you!" \v 29 But Mary felt very troubled when she heard his greeting. She wondered what the angel meant by these words. </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 26 Now in the sixth month of Elizabeth's pregnancy, the angel Gabriel was sent by God to a city in Galilee, named Nazareth, \v 27 to a virgin who was engaged to a man named Joseph. He was a descendant of David, and the virgin’s name was Mary. \v 28 The angel came to her, and said, "Greetings, highly favored one! The Lord is with you!" \v 29 But she was very troubled by his words, and wondered what kind of greeting this might be. </usfm>
+
+===== Target ULB: =====
+
+26 Quando Isabel estava no sexto mês de gravidez, o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, 27 a uma virgem que estava noiva de um homem chamado José. Ele era descendente de Davi, e o nome da virgem era Maria. 28 O anjo apareceu a ela e disse: “Saudações, agraciada.! O Senhor está com você!” 29 Mas ela ficou muito angustiada quando ela ouviu esta saudação, e se perguntou o que isso significava.
+
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:elizabeth|Elizabeth]]
+  * [[:aoa:bible:notes:key-terms:angel|angel]]
+  * [[:aoa:bible:notes:key-terms:gabriel|Gabriel]]
+  * [[:aoa:bible:notes:key-terms:god|God]]
+  * [[:aoa:bible:notes:key-terms:galilee|Galilee]]
+  * [[:aoa:bible:notes:key-terms:nazareth|Nazareth]]
+  * [[:aoa:bible:notes:key-terms:virgin|virgin]]
+  * [[:aoa:bible:notes:key-terms:josephnt|Joseph]]
+  * [[:aoa:bible:notes:key-terms:king|king]]
+  * [[:aoa:bible:notes:key-terms:david|David]]
+  * [[:aoa:bible:notes:key-terms:mary|Mary]]
+  * [[:aoa:bible:notes:key-terms:grace|favor]]
+  * [[:aoa:bible:notes:key-terms:lord|Lord]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **the angel Gabriel was sent by God**  - This could be translated as active voice "God told the angel Gabriel to go." (See: [[:en:ta:translate:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** o anjo Gabriel foi enviado por Deus ** - Isto pode ser traduzido na voz ativa como: "Deus disse ao anjo Gabriel para ir".</font>
+  * **engaged**  - "pledged" or "promised to be married." This meant that Mary's parents had made a commitment for her to marry Joseph.
+  * <font inherit/inherit;;#B22222;;inherit>** noivos ** - "comprometidos" ou "prometidos para se casarem". Isto significa que os pais de Maria tinham assumido o compromisso de ela se casar com José.</font>
+  * **came to her**  - "came to where Mary was" or "went to where Mary was"
+  * <font inherit/inherit;;#B22222;;inherit>** veio até ela ** - "veio até onde Maria estava" ou "foi até onde Maria estava".</font>
+  * **Greetings**  - “Rejoice” or "Be glad." This was a common greeting.
+  * <font inherit/inherit;;#B22222;;inherit>** Saudações ** - "Exultai" ou "Alegrai-vos". Este era uma saudação comum.</font>
+  * **highly favored one**  - This could also be translated as “you who are highly favored" or "you who have received grace" or "you who have received kindness.”
+  * <font inherit/inherit;;#B22222;;inherit>** muito favorecida ** - Isto pode também ser traduzido como: "você que é muito favorecida" ou "você que recebeu graça" ou "você que recebeu generosidade".</font>
+  * **was very troubled**  - "was disturbed" or "was afraid and confused"
+  * <font inherit/inherit;;#B22222;;inherit>** estava muito preocupado ** - "estava muito perturbado" ou "estava amedrontado e confuso".</font>
+  * **what kind of greeting this might be**  - Mary understood the meaning of the individual words, but she did not understand why the angel said them to her.
+  * <font inherit/inherit;;#B22222;;inherit>** que tipo de saudação essa poderia ser ** - Maria entendeu o significado de cada palavra, mas ela não entendeu o porquê de o anjo as ter dito para ela.</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:01:24|<<]] | [[:aoa:bible:notes:luk:01:30|>>]]**
+
+~~DISCUSSION~~{{tag>draft elizabeth angel gabriel nazareth virgin josephnt mary}}
+
+~~NOCACHE~~

@@ -1,0 +1,49 @@
+====== Luke 03:15-16*F ======
+
+===== TFT: =====
+
+<usfm> \v 15 People were expecting \add that the Messiah would come soon\add*. Because of that, many of them wondered about John. \add Some of them asked him\add* if he was the Messiah. \v 16 John replied to them all, "No, \add I am not\add*. I used \add only\add* water when I baptized you. But \add the Messiah\add* will soon come! He is far greater than I am. \add He is so great that\add* I am not worthy to \add be like his slave and\add* untie his sandals \f + \ft metaphor \f* \add like\add* a slave would do! He will put \add his\add* Holy Spirit within \f + \ft metonymy \f* you \add to truly change your lives\add*, and \add he will judge others of you and punish you in\add* the fire \f + \ft metaphor \f* \add in hell\add*. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 15 People were getting very hopeful that the Messiah might be coming soon, and many of them were wondering if John might be the Messiah. \v 16 But John replied to them all, "No, I am not. The Messiah is far greater than I am. He is so great that I am not worthy even to untie the straps of his sandals! When I baptized you, I used only water. But when the Messiah comes, he will baptize you with the Holy Spirit and with fire. </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 15 Now as the people were eagerly expecting the Christ to come, everyone was wondering in their hearts concerning John whether he might be the Christ. \v 16 John answered by saying to them all, "As for me, I baptize you with water, but someone is coming who is more powerful than I, and I am not worthy even to untie the strap of his sandals. He will baptize you with the Holy Spirit and with fire. </usfm>
+
+===== Target ULB: =====
+15 Agora que todos estavam com grande expectativa, esperando a chegada de Cristo, todos estavam imaginando em seu coração que João poderia ser o Cristo. 16 João disse a eles, “Quanto a mim, Eu vim para batizá-los com água, mas virá aquele que é mais poderoso que eu, e eu não sou digno de desatar as amarras de sua sandália. Ele vai batizá-los com o Espírito Santo e com fogo. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:christ|Christ]]
+  * [[:aoa:bible:notes:key-terms:heart|heart]]
+  * [[:aoa:bible:notes:key-terms:johnthebaptist|John]]
+  * [[:aoa:bible:notes:key-terms:baptize|baptize]]
+  * [[:aoa:bible:notes:key-terms:holyspirit|Holy Spirit]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **as the people**  - This refers to the same people who came to John. This could be translated as "because the people."
+  * <font inherit/inherit;;#B22222;;inherit>** como as pessoas  ** - Isto se refere às mesmas pessoas que foram até João. Isto pode ser traduzido como: "porque as pessoas".</font>
+  * **I baptize you with water**  - "I baptize using water" or "I baptize by means of water"
+  * <font inherit/inherit;;#B22222;;inherit>** eu batizo você com água ** - "eu batizo usando água" ou "eu batizo por meio da água".</font>
+  * **not worthy even to untie the strap of his sandals**  - This could be translated as "not important enough even to loosen the straps of his sandals." Untying the straps of sandals was a duty of a slave. John was saying that the one who would come is so great that John was not even worthy enough to be his slave.
+  * <font inherit/inherit;;#B22222;;inherit>** nem mesmo digno de desatar a correia de suas sandálias ** - Isto pode ser traduzido como: "não importante o suficiente para até mesmo folgar as correias de suas sandálias". Desatar as correias de uma sandália era trabalho de escravo. João estava dizendo que aquele que viria era tão grande que ele não era digno o suficiente nem mesmo para ser seu escravo.</font>
+  * **sandals**  - Sandals are shoes with straps that hold the bottom of the shoe to the foot. It could be translated as "shoes" or "flip-flops" or "thongs."
+  * <font inherit/inherit;;#B22222;;inherit>** sandálias ** - Sandálias são sapatos com correias que seguram a parte de baixo do sapato ao pé. Isto poderia ser traduzido como: "sapatos" ou "chinelas".</font>
+  * **He will baptize you with the Holy Spirit and with fire**  - This is a metaphor. It compares literal baptism that brings a person into contact with water to a spiritual baptism that brings them into contact with the Holy Spirit and with fire. (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** Ele vai batizar vocês com o Espírito Santo e com fogo ** - Esta é uma metáfora. Ela compara o batismo literal, que leva a pessoa ao contato com água, com o batismo espiritual, que as leva ao contato com o Espírito Santo e seu fogo.</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:03:14|<<]] | [[:aoa:bible:notes:luk:03:17|>>]]**
+
+~~DISCUSSION~~{{tag>draft christ johnthebaptist baptize holyspirit}}
+
+~~NOCACHE~~

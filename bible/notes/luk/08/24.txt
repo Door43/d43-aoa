@@ -1,0 +1,52 @@
+====== Luke 08:24-25-F ======
+
+===== TFT: =====
+
+<usfm> \v 24 They woke him up. They said \add to him\add*, "Master! Master! We\add \f + \ft inclusive \f*\add* are going to drown!" He got up and rebuked the wind and told the waves to be calm. The wind stopped blowing and the waves calmed down. \add The lake\add* became calm. \v 25 He said to them, "I \add am disappointed that\add* you did not trust me \add to help you\add*!\f + \ft Or: Why did you not trust me \add to help you\add*? \f*" \f + \ft rhetorical question \f* They were afraid. They were also amazed. They said to each other, "What kind of man is this?\f + \ft Or: This man is not like ordinary men! \f* \f + \ft rhetorical question \f* He \add not only commands people, but\add* when he commands the wind and the water, they also obey him!"
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 24 So Jesus' disciples came to him and woke him up. They said to him, "Master! Master! We are going to die!" He then woke up and commanded the wind and the violent waves to be still and they became still. Everything became calm. \v 25 Then he said to them, "Why is your faith so weak?" The disciples were alarmed and amazed because of what had just happened. They kept saying to one another, "Who is this, that he is able to command even the winds and the water, and they obey him?"
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 24 Then Jesus' disciples came over to him and woke him up, saying, "Master, master, we are about to die!" He awoke, and rebuked the wind and the raging of the water and they ceased, and there was a calm. \v 25 Then he said to them, "Where is your faith?" Being afraid, they were very amazed, saying one to another, "Who then is this, that he commands even the winds and the water, and they obey him?" </usfm>
+=====Target ULB: =====
+
+24 Os discípulos de Jesus foram até ele o acordaram dizendo: “Mestre, Mestre, estamos prestes à morrer!” Ele acordou, repreendeu a tempestade e a fúria das águas e elas cessaram, e houve calmaria. 25 Então ele disse a eles: “Onde está a fé de vocês?” Com temor e muito admirados, eles diziam uns aos outros, “Quem é este, que comanda os ventos e as águas, e eles o obedecem?” 
+
+-----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:disciple|disciples]]
+  * [[:aoa:bible:notes:key-terms:faith|faith]]
+  * [[:aoa:bible:notes:key-terms:obey|obey]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **Master**  - The Greek word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. You could also translate it as "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
+  * <font inherit/inherit;;#B22222;;inherit>** Mestre  ** - A palavra grega que é traduzida aqui como "mestre" não é a palavra normal para "mestre". Esta se refere a alguém que tem autoridade, e não a alguém que é dono de outra pessoa. Você poderia também traduzir isso como: "Chefe" ou "Patrão" ou com uma palavra que seja comumente usada para se dirigir a uma pessoa em autoridade, tal como "Senhor".</font>
+  * **rebuked**  - "spoke sharply to"
+  * <font inherit/inherit;;#B22222;;inherit>** repreendeu  ** - "falou rispidamente com".</font>
+  * **they ceased**  - "the wind and the waves stopped"
+  * <font inherit/inherit;;#B22222;;inherit>** eles cessaram  ** - "o vento e as ondas pararam".</font>
+  * **Where is your faith?**  - This is a rhetorical question. Jesus was rebuking them mildly because they did not trust him to take care of them. It can be translated as "You should have had faith" or "You should have trusted me."
+  * <font inherit/inherit;;#B22222;;inherit>** Onde está a fé de vocês? ** - Esta é uma pergunta retórica. Jesus os estava repreendendo suavemente porque eles não confiavam nele para cuidar deles. Isto pode ser traduzido como: "Vocês deveriam ter tido fé" ou "Vocês deveriam ter confiado em mim".</font>
+  * **Who is this**  - This can be translated as "What kind of man is this."
+  * <font inherit/inherit;;#B22222;;inherit>** Quem é este ** - Isto pode ser traduzido como: "Que tipo de homem é este".</font>
+  * **that he commands**  - This can be the beginning of a new sentence: "He commands."
+  * <font inherit/inherit;;#B22222;;inherit>** que ele ordena ** - Isto pode ser o início de uma nova sentença: "Ele ordena".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:08:22|<<]] | [[:aoa:bible:notes:luk:08:26|>>]]**
+
+~~DISCUSSION~~{{tag>draft obey fear}}

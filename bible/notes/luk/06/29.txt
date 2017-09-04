@@ -1,0 +1,47 @@
+====== Luke 06:29-30*F ======
+
+===== TFT: =====
+
+<usfm> \v 29 If someone \add insults one of you by\add* striking you on one of your cheeks, turn your face \add so that he can strike\add* the other cheek \add also\add*. If \add a bandit\add* wants to take away your\add \f + \ft singular \f*\add* coat, let him also have your shirt. \v 30 Give something to everyone who asks you\add \f + \ft singular \f* for something\add*. If someone takes away things that belong to you\add \f + \ft singular \f*\add*, do not ask him to return them. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 29 If someone insults you by striking you on one of your cheeks, turn your face so that he can strike the other cheek also. If someone wants to take away your coat, let him also have your shirt. \v 30 Give something to everyone who asks you. If someone asks you to give him things that belong to you, do not ask him to return them. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 29 To him who strikes you on the one cheek, offer him also the other. If someone takes away your coat, do not withhold your tunic either. \v 30 Give to everyone who asks you. If someone takes away something that belongs to you, do not ask him to give it back to you. </usfm>
+===== Target ULB: =====
+29 Se alguém te der um tapa na face, ofereça a ele também o outro lado. Se alguém tomar de você a sua capa, não recuse a ele a sua túnica. 30 Se alguém te pedir algo, dê a ele. Se alguém tomar algo que pertence a você, não o peça que devolva. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:tunic|tunic]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Jesus continues to teach the crowd to love their enemies.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar a multidão a amar seus inimigos).</font>
+  * **To him who strikes you**  - "If anyone hits you"
+  * <font inherit/inherit;;#B22222;;inherit>** Aquele que te der um tapa  ** - "Se alguém te bater"</font>
+  * **on the one cheek**  - "on one side of your face"
+  * <font inherit/inherit;;#B22222;;inherit>** em uma das bochechas  ** - "em um lado do seu rosto".</font>
+  * **offer him also the other**  - This can be translated as "turn your face so that he can hit the other side, too."
+  * <font inherit/inherit;;#B22222;;inherit>** ofereça a ele também a outra ** - Isto pode ser traduzido como: "vire o seu rosto para que ele bata no outro lado também".</font>
+  * **do not withhold**  - "do not prevent him from taking"
+  * <font inherit/inherit;;#B22222;;inherit>** não retenha  ** - "não o impeça de tomar".</font>
+  * **Give to everyone who asks you**  - This can be translated as "If anyone asks you for something, give it to him."
+  * <font inherit/inherit;;#B22222;;inherit>** Dê a todos que lhe pedirem  ** - Isto pode ser traduzido como: "Se alguém te pedir algo, dê a ele".</font>
+  * **do not ask him**  - "do not require him" or "do not demand"
+  * <font inherit/inherit;;#B22222;;inherit>** não peça a ele ** - "não requeira dele" ou "não exija".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:06:27|<<]] | [[:aoa:bible:notes:luk:06:31|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

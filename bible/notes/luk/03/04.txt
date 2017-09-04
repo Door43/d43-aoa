@@ -1,0 +1,52 @@
+====== Luke 03:4*F ======
+
+===== TFT: =====
+
+<usfm> \v 4 John was the one who \add fulfilled\add* these words that had \add been written\add* by the prophet Isaiah \f + \ft Or:that the prophet Isaiah had written \f* on a scroll \add long ago\add*: \pi In a desolate area, someone \f + \ft synecdoche \f* will be heard shouting \add to the people who pass by\add*, \pi Prepare yourselves \add to receive\add* the Lord when he comes! \pi \add Make yourselves ready so that you will be prepared when he comes\add*, \pi \add just like people\add* straighten out the road \f + \ft metaphor \f* \add for an important official\add* \f + \ft metaphor, doublet \f*! \pi </usfm>
+
+===== UDB: =====
+
+<usfm> \v 4 The prophet Isaiah wrote these words on a scroll long ago: \q1 "In the wilderness, someone will be calling out: \q1 Prepare the way of the Lord, \q1 Make straight paths for him.
+
+\q1 </usfm>
+
+===== ULB: =====
+
+<usfm> \q1 \v 4 As it is written in the book of the words of Isaiah the prophet, \q1 "The voice of someone calling out in the wilderness, \q1 'Make ready the way of the Lord, \q1 Make his paths straight. </usfm>
+
+===== Target ULB: =====
+
+4 O profeta Isaías, escreveu assim em seu livro: “Voz do que clama no deserto: Prepare o caminho do Senhor, endireitai a sua vereda.
+
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:isaiah|Isaiah]]
+  * [[:aoa:bible:notes:key-terms:prophet|prophet]]
+  * [[:aoa:bible:notes:key-terms:lord|Lord]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações Úteis para a Tradução:</font>
+
+  * **As it is written … prophet**  - This could be translated as "This happened as Isaiah the prophet had written in his book" or "John fulfilled the words that the prophet Isaiah had written in his book."
+  * <font inherit/inherit;;#B22222;;inherit>** Como está escrito  **  ** … profeta -  ** Isso poderia ser traduzido como "Isso aconteceu quando o profeta Isaías havia escrito em seu livro" ou "João cumpriu as palavras que o profeta Isaías tinha escrito em seu livro."</font>
+  * **the way**  - "the path" or "the road"
+  * <font inherit/inherit;;#B22222;;inherit>** o caminho  **  ** -  ** "o caminho" ou "a estrada"</font>
+  * **Make ready….make his paths straight**  - This section is in the style of Hebrew poetry, which often repeats important phrases in similar words. "Make ready the way of the Lord" is therefore another way to say "Make his paths straight." The main difference is the first indicates it happens once, while the second should continue to be done.
+  * <font inherit/inherit;;#B22222;;inherit>** Preparem  **  ** ….Preparem suas veredas -  ** Esta seção​ é no estilo da poesia hebraica, que muitas vezes as frases importantes são repetidas com palavras semelhantes. "Preparai o caminho do Senhor " é, portanto, uma outra maneira de dizer "endireitai as suas veredas." A principal diferença é que a primeira indica que acontece uma vez, enquanto o segundo deve continuar a ser feito.</font>
+  * **Make ready the way of the Lord**  - This metaphor of a road means "Repent and be ready for when the Lord comes." (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** Preparai o  **  ** caminho do Senhor -  ** Esta metáfora de uma estrada significa "Arrependei-vos e esteja pronto para quando o Senhor vier ." (Veja : Metáfora)</font>
+  * **Make his paths straight**  - This image of a path is also a metaphor that means "Be continually ready for the Lord to come."
+  * <font inherit/inherit;;#B22222;;inherit>** Endireitai as suas veredas  **  ** -  ** Esta imagem de um​ caminho é também uma metáfora que significa "Estar continuamente pronto para a vinda do Senhor."</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:03:03|<<]] | [[:aoa:bible:notes:luk:03:05|>>]]**
+
+~~DISCUSSION~~{{tag>draft isaiah prophet}}
+
+~~NOCACHE~~

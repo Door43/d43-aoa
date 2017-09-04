@@ -1,0 +1,49 @@
+====== Luke 06:6-8*F ======
+
+===== TFT: =====
+
+<usfm> \v 6 Another Sabbath\f + \ft Or: Jewish day of rest \f* Jesus entered a synagogue\f + \ft Or: Jewish meeting place \f* and taught the people. There was a man there whose right hand was shriveled. \v 7 The men who taught the \add Jewish\add* laws and the Pharisees \add who were there\add* watched Jesus, to see if he would heal the man on the Sabbath\f + \ft Or: on the Jewish rest day \f*. They did this so that, \add if he healed the man\add*, they would accuse him \add of disobeying their laws by working on the day of rest\add*. \v 8 But Jesus knew what they were thinking. So he said to the man with the shriveled hand, "Come and stand here \add in front of everyone\add*!" So the man got up and stood there. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 6 On another Sabbath day, Jesus was teaching the people in the synagogue and a man was there whose right hand was shriveled. \v 7 The men who taught the Jewish laws and the Pharisees who were there were watching Jesus closely. They wanted to see if he would heal the man and then they would accuse him of disobeying their laws about not working on the Sabbath. \v 8 But Jesus knew what they were thinking. So he said to the man with the shriveled hand, "Come and stand here in front of everyone!" So the man got up and stood there. </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 6 It happened on another Sabbath that he went into the synagogue and taught the people there. A man was there whose right hand was shriveled. \v 7 The scribes and the Pharisees were watching him closely to see whether he would heal someone on the Sabbath, so that they might find a reason to accuse him of doing something wrong. \v 8 But he knew what they were thinking and he said to the man whose hand was shriveled, "Get up, and stand here in the middle of everyone." So the man got up and stood there. </usfm>
+
+===== Target ULB: =====
+6 E aconteceu, em outro Sabá, que Jesus foi até a sinagoga e ensinava as pessoas. Havia lá um homem com a mão direita atrofiada. 7 E os escribas e fariseus observavam Jesus de perto, para ver se ele iria curar alguém no dia de Sabá, pois procuravam acusá-lo de ter feito algo errado. 8 Mas Jesus, sabendo o que eles estavam pensando, disse ao homem da mão atrofiada: “Se levante e fique aqui no meio de todos.” Então o homem se levantou e foi até lá. 
+
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:sabbath|Sabbath]]
+  * [[:aoa:bible:notes:key-terms:synagogue|synagogue]]
+  * [[:aoa:bible:notes:key-terms:scribe|scribes]]
+  * [[:aoa:bible:notes:key-terms:pharisee|Pharisees]]
+  * [[:aoa:bible:notes:key-terms:heal|heal]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **And it happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** E aconteceu  ** - Esta frase é usada aqui para indicar o início de uma nova parte da história. Se sua língua tem uma maneira de fazer isso, considere usá-la aqui.</font>
+  * **hand was shriveled**  - The man's hand was damaged in such a way that he could not stretch it. It was probably bent into almost a fist, making it look smaller and wrinkled.
+  * <font inherit/inherit;;#B22222;;inherit>** mão estava atrofiada ** - A mão do homem estava danificada de tal maneira que ele não podia esticá-la. Estava provavelmente dobrada quase que como um punho fechado., fazendo-a parecer menor e enrugada.</font>
+  * **were watching him closely**  - "were watching Jesus carefully"
+  * <font inherit/inherit;;#B22222;;inherit>** estavam observando-o de perto  ** - "estavam observando Jesus com cuidado".</font>
+  * **so that they might find**  - This could be translated as "because they wanted to find."
+  * <font inherit/inherit;;#B22222;;inherit>** para que eles possam encontrar ** - Isto poderia ser traduzido como: "porque eles queriam encontrar".</font>
+  * **in the middle of everyone**  - This could be translated as "in front of everyone" (UDB). Jesus wanted the man to stand where everyone there could see him.
+  * <font inherit/inherit;;#B22222;;inherit>** no meio de todos ** - Isto pode ser traduzido como: "em frente de todos" (UDB). Jesus queria que o homem se colocasse de pé onde todos pudessem vê-lo.</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:06:03|<<]] | [[:aoa:bible:notes:luk:06:09|>>]]**
+
+~~DISCUSSION~~{{tag>draft sabbath heal}}
+
+~~NOCACHE~~

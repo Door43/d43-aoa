@@ -1,0 +1,63 @@
+====== Luke 01:78-79*F ======
+
+===== TFT: =====
+
+<usfm> \v 78 Our God will do that because he is very kind to us. \q1 Just like a new day begins when the sun rises \f + \ft metaphor \f*, \q1 God will do that new thing for us when the Messiah comes to us from heaven. \q1 \v 79 People who do not know God \f + \ft metaphor \f* are like those who sit in the darkness. \q1 They are afraid \f + \ft metonymy \f* that they will soon die. \q1 But when the Messiah tells us God's message, \q1 it will be like causing such people to see a bright light. \q1 He will guide us \f + \ft synecdoche \f* so that we will be living peacefully. \p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 78 God will forgive us because he is kind and merciful to us. \q And because of that, this Savior, who is like the rising sun, \q will come to us from heaven to help us. \q \v 79 His message will shine on people who live in spiritual darkness and in the fear of death. \q He will guide us so that we will live peacefully.
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \q \v 78 Our God will forgive us because of his tender mercy. \q By this mercy, the Savior, who is like the morning sun, will come from heaven to help us. \q \v 79 He will shine upon people who sit in darkness and the shadow of death; \q he will guide our feet into the path of peace." </usfm>
+
+===== Target ULB: =====
+78 O nosso Deus nos perdoará por causa de sua terna misericórdia. Por esta misericórdia, o Salvador, que é como o sol da manhã, virá do céu para nos ajudar. 79 Ele brilhará sobre as pessoas que vivem nas trevas e na sombra da morte; ele guiará nossos passos no caminho da paz ”. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:forgive|forgive]]
+  * [[:aoa:bible:notes:key-terms:mercy|mercy]]
+  * [[:aoa:bible:notes:key-terms:savior|Savior]]
+  * [[:aoa:bible:notes:key-terms:god|God]]
+  * [[:aoa:bible:notes:key-terms:heaven|heaven]]
+  * [[:aoa:bible:notes:key-terms:death|death]]
+  * [[:aoa:bible:notes:key-terms:peace|peace]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Zechariah continues prophesying to his newborn son.)
+  * <font inherit/inherit;;#B22222;;inherit>(Zacarias continua a profetizar para seu filho recém nascido)</font>
+  * **because of his tender mercy**  - This could be translated as "because he is compassionate and merciful to us."
+  * <font inherit/inherit;;#B22222;;inherit>** por causa da sua terna misericórdia ** - Isto pode ser traduzido como: "porque ele é compassivo e misericordioso conosco".</font>
+  * **of our God**  - Note that throughout these verses "our" and "us" are inclusive. (See: [[:en:ta:translate:inclusive|Inclusive]])
+  * <font inherit/inherit;;#B22222;;inherit>** de nosso Deus ** - Perceba que através destes versos "nosso" e "nós" são inclusivos.</font>
+  * **like the rising sun**  - "like the sunrise" or "like the dawn." (See: [[:en:ta:translate:simile|Simile]])
+  * <font inherit/inherit;;#B22222;;inherit>** como o sol nascente ** - "como o nascer do sol" ou "como o amanhecer".</font>
+  * **He will shine upon**  - This is a metaphor that means "He will give knowledge to." This could be translated as "He will give spiritual light to." (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** Ele brilhará sobre ** - Esta é uma metáfora que significa "Ele dará conhecimento para". Isto pode ser traduzido como: "Ele dará luz espiritual para".</font>
+  * **people who sit in darkness**  - This is a metaphor that means "people who do not know the truth".
+  * <font inherit/inherit;;#B22222;;inherit>** pessoas que se sentam na escuridão ** - Esta é uma metáfora que significa "pessoas que não conhecem a verdade".</font>
+  * **and (who sit in) the shadow of death**  - This is a metaphor that means "who are about to die" or "and who are afraid that they will soon die."
+  * <font inherit/inherit;;#B22222;;inherit>** e que se sentam à sombra da morte ** - Esta é uma metáfora que significa "que estão prestes a morrer" ou "que temem que em breve irão morrer".</font>
+  * **guide**  - This is a metaphor for "teach."
+  * <font inherit/inherit;;#B22222;;inherit>** guiar ** - Esta é uma metáfora para "ensinar".</font>
+  * **our feet**  - This is a synecdoche and refers to the whole person, not just the feet. It could be translated as "us." (See: [[:en:ta:translate:synecdoche|Synecdoche]])
+  * <font inherit/inherit;;#B22222;;inherit>** nossos pés ** - Esta é uma sinédoque e se refere à pessoa por completo, não apenas ao pés. Isto pode ser traduzido como "nós".</font>
+  * **into the path of peace**  - This is a metaphor that means "into a peaceful life" or "into a life at peace with God." It could be translated as "to walk along a path that leads to peace" or "to live in a way that brings peace with God." Make sure your translation of this fits with how you translate "our feet."
+  * <font inherit/inherit;;#B22222;;inherit>** no caminho da paz ** - Esta é uma metáfora que significa "em uma vida de paz"  ou "em uma vida de paz com Deus". Isto pode ser traduzido como: "andar em um caminho que leva à paz" ou "viver de um modo que traga paz com Deus". Assegure-se de que a tradução disso se encaixe com a maneira como você traduziu "nossos pés".</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:01:76|<<]] | [[:aoa:bible:notes:luk:01:80|>>]]**
+
+~~DISCUSSION~~{{tag>draft forgive mercy savior heaven death peace}}
+
+~~NOCACHE~~

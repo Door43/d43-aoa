@@ -1,0 +1,52 @@
+====== Luke 08:28-29-F ======
+
+===== TFT: =====
+
+<usfm> \v 28-29 Many times \add demons\add* attacked him. He was guarded \f + \ft Or:\add People\add* tried to guard him \f* \add so that he would not injure others\add*. Chains were fastened \f + \ft Or:They fastened chains \f* on his hands and shackles on his feet, but he would break the chains and shackles. Then he would be sent away by the demons \f + \ft Or:the demons would send him away \f* to the desolate area. \p When Jesus stepped out of the boat onto the shore, the man saw him. He \add ran to Jesus\add* and prostrated himself before him. Then Jesus commanded, "You evil spirit, come out of that man!" But it \add did not leave immediately. Instead, it\add* caused the man to shout very loudly, "Jesus, Son of the great God in heaven, since we\add \f + \ft inclusive \f*\add* have nothing in common, \add leave me alone\add* \f + \ft rhetorical question \f*! I beg you, do not torture me \add now\add*!" </usfm>
+
+===== UDB: =====
+
+<usfm> \v 28 When he saw Jesus, the man cried out, lay face down before him, and said with a loud voice, "What do you want with me, Jesus, Son of the Most High God? I beg you, do not torment me!" \v 29 The man said this because Jesus had just commanded the evil spirit to come out of him. Although the man had been bound with chains on his wrists and ankles while people guarded him, many times the evil spirit would suddenly seize him by force. Then the man would break the chains and the demon would make him go out into deserted places. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 28 When he saw Jesus, he cried out, and fell down before him. With a loud voice he said, "What do I have to do with you, Jesus, Son of the Most High God? I beg you, do not torment me." \v 29 For Jesus was commanding the unclean spirit to come out of the man, because many times it had seized him. Even though he was bound with chains and shackles and kept under guard, he would break the bonds apart and be driven by the demon into the wilderness. </usfm>
+===== Target ULB: =====
+28 Quando viu Jesus ele gritou e se prostrou diante dele. E em alta voz disse: “O que tenho com você, Jesus, Filho do Deus Altíssimo? Eu te imploro, não me atormente.” 29 Pois Jesus tinha ordenado ao espírito imundo que saísse do homem que por muitas vezes tinha se apoderado dele. Embora ficasse preso por correntes e grilhões, e sob vigilância de guardas, ele quebrava as correntes e era levado ao deserto pelo demônio. 
+-----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:sonofgod|Son of God]]
+  * [[:aoa:bible:notes:key-terms:mosthigh|Most High God]]
+  * [[:aoa:bible:notes:key-terms:demon|unclean spirit]]
+  * [[:aoa:bible:notes:key-terms:demon|demon]]
+  * [[:aoa:bible:notes:key-terms:desert|wilderness]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **When he saw Jesus**  - "When the man who had the demon saw Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** Quando ele viu Jesus ** - "Quando o homem que tinha demônio viu Jesus".</font>
+  * **he cried out**  - "he screamed" or "he shrieked"
+  * <font inherit/inherit;;#B22222;;inherit>** ele clamou ** - "ele gritou" ou "ele berrou".</font>
+  * **fell down before him**  - “lay down on the ground before Jesus.” He did not fall accidentally. He did this because he was afraid of Jesus.
+  * <font inherit/inherit;;#B22222;;inherit>** caiu diante dele ** - "deitou-se no chão diante de Jesus". Ele não caiu acidentalmente. Ele fez isso porque ele estava com medo de Jesus.</font>
+  * **with a loud voice said**  - "he said loudly" or "he shouted out"
+  * <font inherit/inherit;;#B22222;;inherit>** com alta voz disse ** - "ele disse em voz alta" ou "ele gritou".</font>
+  * **What do I have to do with you**  - This can be translated as "Why are you bothering me."
+  * <font inherit/inherit;;#B22222;;inherit>** O que eu tenho a ver com você ** - Isto pode ser traduzido como: "Por que você está me aborrecendo".</font>
+  * **many times it had seized him**  - "many times it had captured the man." It can be translated as "many times it had gone into him." This and the next sentence tell about what the demon had done many times before Jesus went to the man.
+  * <font inherit/inherit;;#B22222;;inherit>** muitas vezes ele havia se apoderado dele ** - "muitas vezes ele havia capturado o homem". Isto pode ser traduzido como: "muitas vezes ele havia entrado nele". Esta e a sentença seguinte fala sobre o que o demônio havia feito por muitas vezes antes de Jesus ter ido até o homem.</font>
+  * **even though he was bound with chains and shackles, and kept under guard**  - This can be translated with active verbs: "even though the people had bound the man with chains and shackles and guarded him." (See: [[:en:ta:vocabulary:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** embora ele fosse preso por correntes e grilhões e mantido sob vigilância ** - Isto pode ser traduzido com verbos ativos: "mesmo que as pessoas tivessem prendido o homem com correntes e grilhões e o vigiado".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:08:26|<<]] | [[:aoa:bible:notes:luk:08:30|>>]]**
+
+~~DISCUSSION~~{{tag>draft demon desert}}
+
+~~NOCACHE~~

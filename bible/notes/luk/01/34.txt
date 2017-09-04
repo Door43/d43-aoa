@@ -1,0 +1,58 @@
+====== Luke 01:34-35*F ======
+
+===== TFT: =====
+
+<usfm> \v 34 Then Mary said to the angel, "I am a virgin, so how can I \add have a baby\add*?" \v 35 The angel replied, "The Holy Spirit will come to you\add \f + \ft singular \f*\add* and the power of God [MTY\f + \ft Or: EUP \f*] will be on you \add to enable you to become pregnant\add*. So the child \add you will\add* bear will be completely set apart \f + \ft Or:give himself completely \f* to obey God, and he will be called \f + \ft Or:\add people\add* will say that he is \f* the Son of God\f + \ft Or: the man who is also God \f*. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 34 Then Mary said to the angel, "How can this happen, since I am a virgin?" \v 35 The angel replied, "The Holy Spirit will come to you and the power of God will cover you. So the baby you will bear will be holy, and he will be called the Son of God. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 34 Then Mary said to the angel, "How will this happen, since I am a virgin?" \v 35 The angel answered her, "The Holy Spirit will come over you and the power of the Most High will overshadow you. Therefore, the holy one who will be born will be called the Son of God. </usfm>
+
+
+=====Target ULB:=====
+
+
+34 Então Maria disse ao anjo: “Como isso acontecerá, visto que sou virgem?” 35 O anjo respondeu: “O Espírito Santo virá sobre você e o poder do Altíssimo a envolverá. Por isso, aquele que é Santo nascerá e será chamado Filho de Deus. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:mary|Mary]]
+  * [[:aoa:bible:notes:key-terms:angel|angel]]
+  * [[:aoa:bible:notes:key-terms:virgin|virgin]]
+  * [[:aoa:bible:notes:key-terms:holyspirit|Holy Spirit]]
+  * [[:aoa:bible:notes:key-terms:power|power]]
+  * [[:aoa:bible:notes:key-terms:god|God]]
+  * [[:aoa:bible:notes:key-terms:mosthigh|Most High]]
+  * [[:aoa:bible:notes:key-terms:holy|holy]]
+  * [[:aoa:bible:notes:key-terms:sonofgod|Son of God]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **How will this happen**  - This could be translated as "How is this possible?" Though Mary did not understand how it could happen, she did not doubt that it would happen.
+  * <font inherit/inherit;;#B22222;;inherit>** como isso acontecerá ** - Isto pode ser traduzido como: "Como isso é possível?". Apesar de Maria não ter entendido como aquilo iria acontecer, ela não duvidou que aconteceria.</font>
+  * **will come over you**  - This phrase and the next one are ways of saying that the Holy Spirit would supernaturally cause Mary to become pregnant even while she still remained a virgin. Make sure it is clear that there was no physical union involved; this was a miracle.
+  * <font inherit/inherit;;#B22222;;inherit>** virá até você ** - Esta frase e a seguinte são maneiras de dizer que o Espírito Santo iria sobrenaturalmente levar Maria a ficar gravida, mesmo enquanto ela ainda era virgem. Tenha a certeza de que está claro que não houve união ou envolvimento físico. Isso foi um milagre.</font>
+  * **The power of**  - This could be translated as "By his power."
+  * <font inherit/inherit;;#B22222;;inherit>** O poder de ** - Isto pode ser traduzido por: "pelo seu poder".</font>
+  * **will overshadow you**  - This could be translated as "will cover you like a shadow" or "will be with you" or, "will cause this to happen." Again, make sure this does not imply any physical union.
+  * <font inherit/inherit;;#B22222;;inherit>** encobrirá você ** - Isto pode ser traduzido como: "encobrirá você como uma sombra" ou "vai estar com você", ou "levará isso a acontecer". De novo, tenha certeza de que isso não dará o significado de união física.</font>
+  * **the holy one**  - "the holy child" or "the holy baby"
+  * <font inherit/inherit;;#B22222;;inherit>** o santo ** - "a criança sagrada" ou "o bebê sagrado".</font>
+  * **will be called**  - This could be translated as "people will call him" or "people will acknowledge that he is."
+  * <font inherit/inherit;;#B22222;;inherit>** será chamado ** - Isto pode ser traduzido como: "as pessoas o chamarão" ou "as pessoas reconhecerão quem ele é".</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:01:30|<<]] | [[:aoa:bible:notes:luk:01:36|>>]]**
+
+~~DISCUSSION~~{{tag>draft mary virgin holyspirit mosthigh holy sonofgod}}
+
+~~NOCACHE~~

@@ -1,0 +1,49 @@
+====== Luke 09:41-42/  *F ======
+
+===== TFT: =====
+
+<usfm> \v 41 Jesus replied \add by saying to everyone who had gathered there\add*, "\add You who have seen how I help people\add* do not believe \add that you can do anything\add*! What you \add think\add* is perverted! How long must I be with you \add before you are able to do what I do\add* \f + \ft rhetorical question \f*? \add How long must I\add* endure your \add lack of faith\add*?" \add Then he said to the boy's father\add*, "Bring your\add \f + \ft singular \f*\add* son here \add to me\add*!" \v 42 While they were bringing the boy to Jesus, the demon attacked the boy, threw him to the ground, and shook him severely. But Jesus rebuked the evil spirit and healed the boy. Then he returned him to his father's \add care\add*. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 41 In response, Jesus said, "This generation of people does not believe and so your thinking is corrupt! How much longer must I be with you before you believe?" Then he said to the boy's father, "Bring your son here to me!" \v 42 While they were bringing the boy to him, the demon threw the boy down to the ground, and shook him severely. But Jesus rebuked the evil spirit and healed the boy. Then he returned him to his father. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 41 Jesus answered and said, "You unbelieving and corrupt generation, how long will I have to stay with you and bear with you? Bring your son here." \v 42 As the boy was still coming, the demon threw him down and shook him violently. But Jesus rebuked the unclean spirit, and healed the boy, and gave him back to his father. </usfm>
+
+===== Target ULB: =====
+
+41 Jesus respondeu: Vocês, geração de incrédulos e perversos, quanto tempo eu vou ter que ficar com vocês e suportá-los? Traga o seu filho aqui.” 42 Enquanto o menino ainda estava indo, o demônio o lançou ao chão e o convulsionou, mas Jesus repreendeu o espírito imundo, curou o menino e o entregou para o seu pai. 
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:demon|demon]]
+  * [[:aoa:bible:notes:key-terms:unclean|unclean]]
+  * [[:aoa:bible:notes:key-terms:spirit|spirit]]
+
+===== Translation Notes: =====
+
+  * **And Jesus answered and said**  - "And in answer Jesus said"
+  * <font inherit/inherit;;#B22222;;inherit>** E Jesus respondeu e disse ** - "E, em resposta, Jesus disse"</font>
+  * **you unbelieving and corrupt generation**  - This was addressed to the crowd that had gathered, and not to the disciples.
+  * <font inherit/inherit;;#B22222;;inherit>** vocês, geração de incrédulos e perversos  ** - Isto foi dirigido à multidão que se reuniu, e não aos discípulos.</font>
+  * **how long will I have to stay with you and bear with you?**  - This is a rhetorical question. Jesus did not expect and answer. The meaning is "I have done so much and still you do not believe!" (See: [[:en:ta:figuresofspeech:rhetoricalquestion|Rhetorical Question]])
+  * <font inherit/inherit;;#B22222;;inherit>** quanto tempo eu vou ter que ficar com vocês e suportá-los? ** - Está é uma Pergunta Retórica. Jesus não esperava uma resposta. o significado é "Eu tenho feito tanto e vocês ainda não acreditam!" (Veja: Pergunta Retórica)</font>
+  * **Bring your son here**  - Here Jesus is speaking directly to the father who addressed him.
+  * <font inherit/inherit;;#B22222;;inherit>** Traga o seu filho aqui ** - Aqui Jesus está falando diretamente ao pai que se dirigiu a ele.</font>
+  * **still coming**  - "on his way" or "on the way"
+  * <font inherit/inherit;;#B22222;;inherit>** ainda estava vindo ** - "em seu caminho" ou "a caminho"</font>
+  * **rebuked**  - "spoke harshly to"
+  * <font inherit/inherit;;#B22222;;inherit>** repreendeu ** - "falou severamente com"</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:09:37|<<]] | [[:aoa:bible:notes:luk:09:43|>>]]**
+
+~~DISCUSSION~~{{tag>draft demon unclean}}
+
+~~NOCACHE~~

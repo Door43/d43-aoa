@@ -1,0 +1,43 @@
+====== Luke 07:39-40-F ======
+
+===== TFT: =====
+
+<usfm> \v 39 When the Pharisee who had invited \add Jesus\add* saw that, he thought within himself, "\add Prophets know about other people's lives\add*, \add so\add* if Jesus were a prophet, he would have known who this woman is who is touching him, and what kind of a person she is. He would have known that she is a prostitute! \f + \ft euphemism \f*" \v 40 Jesus said to him, "Simon, there is something I want to tell you\add \f + \ft singular \f*\add*." He replied, "Teacher, what is it?" </usfm>
+
+===== UDB: =====
+
+<usfm> \v 39 When the Pharisee who had invited Jesus saw what the woman was doing, he thought, "If this man were really a prophet, he would have known who this woman is who is touching him, and what kind of person she is, that she is a sinner. " \v 40 In response, Jesus said to him, "Simon, there is something I want to tell you." He replied, "Teacher, what is it?" </usfm>
+
+===== ULB: =====
+
+<usfm> \v 39 When the Pharisee who had invited Jesus saw this, he thought to himself, saying, "If this man were a prophet, then he would know who and what type of woman is touching him–that she is a sinner." \v 40 Jesus responded and said to him, "Simon, I have something to say to you." He said, "Say it, Teacher!" </usfm>
+===== Target ULB: =====
+39 Quando o fariseu que havia convidado Jesus viu isto, ele pensou consigo mesmo: “Este homem não é um profeta, pois se fosse saberia que tipo de mulher está tocando ele, pois ela é uma pecadora.” 40 Então Jesus disse: “Simão, eu tenho algo para dizer para você.” E Simão disse: “Fale, Mestre!” 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:pharisee|Pharisee]]
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:prophet|prophet]]
+  * [[:aoa:bible:notes:key-terms:sin|sinner]]
+  * [[:aoa:bible:notes:key-terms:teacher|Teacher]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **he thought to himself saying**  - "he said to himself"
+  * <font inherit/inherit;;#B22222;;inherit>** ele pensou consigo mesmo dizendo ** - "ele disse a si mesmo".</font>
+  * **If Jesus were a prophet, then he would know**  - The Pharisee thought that Jesus was not a prophet because he allowed the sinful woman to touch him. This could be translated as "Apparently Jesus is not a prophet. If he were, he would know."
+  * <font inherit/inherit;;#B22222;;inherit>** Se Jesus fosse um profeta então ele saberia  ** - O Fariseu pensou que Jesus não era um profeta porque ele permitiu que uma mulher pecadora o tocasse. Isto poderia ser traduzido como: "Aparentemente Jesus não é um profeta. Se ele fosse, ele saberia."</font>
+  * **Simon**  - This was the name of the Pharisee who invited Jesus into his home. This was not Simon Peter.
+  * <font inherit/inherit;;#B22222;;inherit>** Simão  ** - Este era o nome do Fariseu que convidou Jesus para ir à sua casa. Este não era Simão Pedro.</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:07:36|<<]] | [[:aoa:bible:notes:luk:07:41|>>]]**
+
+~~DISCUSSION~~{{tag>draft prophet jesus teacher pharisee}}
+
+~~NOCACHE~~

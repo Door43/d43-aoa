@@ -1,0 +1,62 @@
+====== Luke 10:16    *F ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 \add Jesus also said to the disciples, "God will consider that\add* those who listen to your \add message\add* are listening to me, and that those who reject your \add message\add* are rejecting me. And \add he will consider that\add* those who reject me are rejecting \add God\add*, the one who sent me."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Jesus also said to the disciples, "Whoever listens to your message is listening to me, and whoever rejects your message is rejecting me. And whoever rejects me is rejecting God, the one who sent me."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm> \v 16 The one who listens to you listens to me, and the one who rejects you rejects me, and the one who rejects me rejects the one who sent me." </usfm>
+
+===== Target ULB: =====
+
+16 Os que escutam a você, escutam a mim, e quem lhe rejeita, a mim me rejeita, e os que me rejeitam também rejeitam aquele que me enviou ”. 
+----
+
+===== Important Terms: =====
+ 
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Jesus finishes teaching the 70 people he was sending out.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus termina de ensinar os 70 discípulos que ele estava enviando).</font>
+  * **The one who listens to you listens to me**  - This can be translated as "When someone listens to you, it is as if they are listening to me."
+  * <font inherit/inherit;;#B22222;;inherit>** Aquele que ouve vocês ouve a mim ** - Isto pode ser traduzido como: "Quando alguém ouvir vocês, será como se estivesse ouvindo a mim".</font>
+  * **the one who rejects you rejects me**  - This can be translated as "When someone rejects you, it is as if they are rejecting me."
+  * <font inherit/inherit;;#B22222;;inherit>** aquele que rejeita a vocês rejeita a mim ** - Isto pode ser traduzido como: "Quando alguém rejeitar vocês, será como se estivesse rejeitando a mim".</font>
+  * **the one who rejects me rejects the on who sent me**  -This can be translated as "When someone rejects me, it is as if they are rejecting the one who sent me."
+  * <font inherit/inherit;;#B22222;;inherit>** aquele que me rejeita, rejeita aquele que me enviou  ** - Isto pode ser traduzido como: "Quando alguém me rejeitar, será como se estivesse rejeitando aquele que me enviou".</font>
+  * **the one who sent me**  - This refers to God the Father. It could be translated as "God, who sent me" (UDB).
+  * <font inherit/inherit;;#B22222;;inherit>** aquele que me enviou ** - Isto se refere a Deus Pai. Isto poderia ser traduzico como: "Deus, que me enviou" (UDB).</font>
+
+===== Links: =====
+
+  * **[[pt-br/bible/notes:luk/questions/comprehension/10|Luke Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[pt-br/bible/notes/luk/10/13|<<]] | [[pt-br/bible/notes/luk/10/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+~~NOCACHE~~

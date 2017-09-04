@@ -1,0 +1,46 @@
+====== Luke 06:27-28*F ======
+
+===== TFT: =====
+
+<usfm> \v 27 "But I say this to each of you \add disciples\add* who are listening \add to what I say\add*: Love your enemies \add as well as your friends\add*! Do good things for those who hate you! \v 28 \add Ask God to\add* bless those who curse you! Pray for those who mistreat you! </usfm>
+
+===== UDB: =====
+
+<usfm> \v 27 "But I say this to each of you who are listening to what I say: Love your enemies, not only your friends! Do good things for those who hate you! \v 28 Ask God to bless those who curse you! Pray for those who treat you badly! </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 27 But I say to you who are listening, love your enemies and do good to those who hate you. \v 28 Bless those who curse you and pray for those who mistreat you. </usfm>
+
+===== Target ULB: =====
+27 Mas eu digo para vocês que estão ouvindo, amem os seus inimigos e façam o bem aos que os odeiam. 28 Abençoem aqueles que os amaldiçoam e orem por aqueles que os maltratam. 
+
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:love|love]]
+  * [[:aoa:bible:notes:key-terms:bless|bless]]
+  * [[:aoa:bible:notes:key-terms:curse|curse]]
+  * [[:aoa:bible:notes:key-terms:pray|pray]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Apparently Jesus begins to speak to the whole crowd that was there, including those who were not his disciples.)
+  * <font inherit/inherit;;#B22222;;inherit>(Aparentemente Jesus começa a falar para toda a multidão que estava ali, incluindo aqueles que não eram seus discípulos).</font>
+  * **Love… do good… bless… pray**  - Each of these commands are to be done continually, not just a single time.
+  * <font inherit/inherit;;#B22222;;inherit>** Ame... faça o bem... abençoe... ore ** - Cada um desses mandamentos devem ser contínuos, não apenas feitos uma única vez.</font>
+  * **love your enemies**  - "care about your enemies" or "do what is good for your enemies"
+  * <font inherit/inherit;;#B22222;;inherit>** ame seus inimigos ** - "se importe com seus inimigos" ou "faça o bem aos seus inimigos".</font>
+  * **those who curse you**  - "those who habitually curse you"
+  * <font inherit/inherit;;#B22222;;inherit>** aqueles que te amaldiçoam  ** - "aqueles que habitualmente te amaldiçoam".</font>
+  * **those who mistreat you**  - "those who habitually mistreat you"
+  * <font inherit/inherit;;#B22222;;inherit>** aqueles que te maltratam  ** - "aqueles que habitualmente te maltratam".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:06:26|<<]] | [[:aoa:bible:notes:luk:06:29|>>]]**
+
+~~DISCUSSION~~{{tag>draft bless love }}

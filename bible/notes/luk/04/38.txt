@@ -1,0 +1,44 @@
+====== Luke 04:38-39*F ======
+
+===== TFT: =====
+
+<usfm> \v 38 Jesus \add and his disciples\add* left the synagogue\f + \ft Or: the Jewish meeting place \f* and went into Simon's house. Simon's mother-in-law was sick and had a high fever. So \add others in Simon's family\add* (OR\add , the disciples\add*) asked Jesus to \add heal\add* her. \v 39 So he bent over her and rebuked the fever. At once she became well! She got up and served them \add some food\add*. \p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 38 Then Jesus left the synagogue and went to Simon’s house. Simon's mother-in-law was sick and had a high fever. Some people who were there asked Jesus to heal her. \v 39 So he bent over her and commanded the fever to leave her. Immediately she became well! She got up and served them some food.
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 38 Then Jesus left the synagogue and entered into the house of Simon. Now Simon’s mother-in-law was suffering with a high fever, and they pleaded with him on her behalf. \v 39 So he stood over her and rebuked the fever, and it left her. Immediately she got up and started serving them. </usfm>
+===== Target ULB: =====
+38 Então Jesus saiu da sinagoga e foi até a casa de Simão. A sogra de Simão estava sofrendo com um febre alta, e eles suplicavam a ele em favor dela. 39 Jesus se inclinou sobre ela e repreendeu a febre, que a deixou. No mesmo momento ela se levantou e começou a servi-los. 
+
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:synagogue|synagogue]]
+  * [[:aoa:bible:notes:key-terms:peter|Simon]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **she was suffering with a high fever**  - In some languages people would say "she was sick and her skin was very hot."
+  * <font inherit/inherit;;#B22222;;inherit>** ela estava sofrendo com febre alta ** - Em algumas línguas as pessoas diriam: "ela estava doente e sua pele estava muito quente".</font>
+  * **Simon's mother-in-law**  - "the mother of Simon's wife"
+  * <font inherit/inherit;;#B22222;;inherit>** Sogra de Simão ** - "a mãe da esposa de Simão".</font>
+  * **rebuked the fever**  - "spoke sternly to the fever" or "commanded the fever to leave her" (UDB). This could be translated as "commanded that her skin should become cool" or "commanded the sickness to leave her."
+  * <font inherit/inherit;;#B22222;;inherit>** repreendeu a febre ** - "falou severamente à febre" ou "ordenou que a febre saísse dela" (UDB). Isto poderia ser traduzido como: "ordenou que sua pele se esfriasse" ou "ordenou que a doença a deixasse".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:04:35|<<]] | [[:aoa:bible:notes:luk:04:40|>>]]**
+
+~~DISCUSSION~~{{tag>draft peter}}
+
+~~NOCACHE~~

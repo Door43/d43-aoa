@@ -1,0 +1,49 @@
+====== Luke 06:9-11*F ======
+
+===== TFT: =====
+
+<usfm> \v 9 Then Jesus said to them, "I ask you this: Do the laws that \add God gave Moses\add* permit \add people\add* to do what is good on the Sabbath\f + \ft Or: on the Jewish rest day \f*, or \add do they permit people\add* to harm \add others\add*? \add Do they permit us\add* to save \add a person's\add* life \add on our day of rest\add* or to let \add him\add* die \f + \ft hyperbole \f* \add by refusing to help him\add*?" \v 10 \add They refused to answer him. So\add* after he looked around at them all, he said to the man, "Stretch out your \add withered\add* hand!" The man did that, and his hand became all right again! \v 11 But they were very angry, and they discussed with one another what they could do to \add get rid of\add* Jesus.
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 9 Then Jesus said to them, "I ask you this: Do the laws that God gave Moses command people to do good on the Sabbath, or to do harm? To save a life on the Sabbath, or destroy it?" \v 10 No one answered him, so he looked around at them all and then said to the man, "Stretch out your shriveled hand!" The man did that, and his hand became completely well again! \v 11 But the religious leaders were very angry, and they discussed with one another about what they could do to get rid of Jesus.
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 9 Jesus said to them, "I ask you, is it lawful on the Sabbath to do good or to do harm, to save a life or to destroy it?" \v 10 Then he looked around at them all and said to the man, "Stretch out your hand." He did so, and his hand was restored. \v 11 But they were filled with anger, and they talked to each other about what they might do to Jesus. </usfm>
+===== Target ULB: =====
+9 Jesus disse a eles: “Eu pergunto a vocês. No Sabá, é permitido fazer o bem ou fazer o mal? Salvar uma vida ou destruí-la?” 10 Então ele olhou ao redor de todos eles e disse ao homem: “Abra a sua mão atrofiada!” Ele fez isto, e sua mão foi curada. 11 Mas eles estavam com muita raiva, e falavam entre si sobre o que eles poderiam fazer a Jesus. 
+----
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:lawful|lawful]]
+  * [[:aoa:bible:notes:key-terms:sabbath|Sabbath]]
+  * [[:aoa:bible:notes:key-terms:life|life]]
+  * [[:aoa:bible:notes:key-terms:filled|filled]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **to them**  - "to the Pharisees"
+  * <font inherit/inherit;;#B22222;;inherit>** para ele ** - "para os fariseus"</font> .
+  * **Is it lawful**  - This is the beginning of a rhetorical question. Jesus wanted the Pharisees to think about it and acknowledge that it is lawful to heal on the Sabbath. This could be translated as "Which is lawful? To do good" or "Which does the law of Moses permit us to do?" (See: [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
+  * <font inherit/inherit;;#B22222;;inherit>** é permitido ** - Esta é o início de uma pergunta retórica. Jesus queria que os fariseus pensassem e reconhecessem que é permitido curar em um dia de Sabá. Isto pode ser traduzido como: "Que é permitido? Fazer o bem" ou "O que a lei de Moisés nos permite fazer?".</font>
+  * **stretch out your hand**  - "hold out your hand" or "extend your hand"
+  * <font inherit/inherit;;#B22222;;inherit>** alongue sua mão ** - "estique sua mão" ou "estenda sua mão".</font>
+  * **restored**  - "healed"
+  * <font inherit/inherit;;#B22222;;inherit>** restabelecido ** - "curado".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:06:06|<<]] | [[:aoa:bible:notes:luk:06:12|>>]]**
+
+~~DISCUSSION~~{{tag>draft lawful heal filled}}
+
+~~NOCACHE~~

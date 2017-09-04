@@ -1,0 +1,42 @@
+====== Luke 11:2-F ======
+
+===== TFT: =====
+
+<usfm> \v 2 He said to them, "When you pray, say \add things like this\add*: 'Father, we want you\add \f + \ft singular \f*\add* \f + \ft metonymy \f* to be honored\f + \ft Or: revered \f*. \add We want people to let you\f + \ft singular \f*\add* \f + \ft metonymy, metaphor \f* rule over their lives. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 2 He said to them, "When you pray, say things like this: 'Father, may all people honor your name as holy. May you soon rule all people everywhere. </usfm>
+
+===== ULB: =====
+
+<usfm> \v 2 Jesus said to them, "When you pray say, 'Father, sanctify your name. Let your kingdom come. </usfm>
+
+===== Target ULB: =====
+
+2 Jesus disse a eles: “Quando vocês orarem digam: 'Pai, santifique o seu nome. Que o seu reino venha. 
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:pray|pray]]
+  * [[:aoa:bible:notes:key-terms:godthefather|Father]]
+  * [[:aoa:bible:notes:key-terms:sanctify|sanctify]]
+  * [[:aoa:bible:notes:key-terms:name|your name]]
+  * [[:aoa:bible:notes:key-terms:kingdomofgod|kingdom of God]]
+
+===== Translation Notes: =====
+
+  * **Jesus said to them**  - "Jesus said to his disciples"
+  * <font inherit/inherit;;#B22222;;inherit>** Jesus disse a ele  ** - "Jesus disse aos seus discípulos"</font>
+  * **sanctify your name**  - It can be translated as "may all people honor you" or "cause everyone to honor your name." It means "we want everyone to honor you."
+  * <font inherit/inherit;;#B22222;;inherit>** santifique seu nome  ** - Isto pode ser traduzido como "que todas as pessoas honrem você" ou "leve todos a honrar seu nome." Isto significa "nós queremos que todos honrem a você."</font>
+  * **Let your kingdom come**  - "Establish your kingdom." It means "We want you to rule over your people."
+  * <font inherit/inherit;;#B22222;;inherit>** Venha o seu reino ** - "Estabeleça o seu reino." Isto significa "Queremos que você governe sobre o seu povo."</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:11:01|<<]] | [[:aoa:bible:notes:luk:11:03|>>]]**
+
+~~DISCUSSION~~{{tag>draft sanctify}}

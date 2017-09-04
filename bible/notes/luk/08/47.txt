@@ -1,0 +1,54 @@
+====== Luke 08:47-48-F ======
+
+===== TFT: =====
+
+<usfm> \v 47 When the woman realized that she could not prevent \add Jesus\add* \f + \ft Or: \add people\add* \f* from knowing that \add she was healed\add*, her body began to shake. \add She was afraid that because she had disobeyed the law that a woman with such a condition should not touch others, Jesus might scold her for doing that\add*. She prostrated herself before him. As the other people were listening, she told why she had touched him and how she had been healed immediately. \v 48 \add Jesus\add* said to her, "Ma'am\f + \ft Or: My dear woman \f*, because you believed \f + \ft personification \f* \add that I could heal you, I\add* have healed you. Go \add from here, and may you experience God's\add* peace \add within you\add*." \p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 47 And when the woman realized that she could not hide, she came trembling to him and bowed down to the ground in front of him. As the other people were listening, she told Jesus why she had touched him and that she had been healed immediately. \v 48 And Jesus said to her, "My dear woman, because you believed that I could heal you, you are now well. Now go on your way, and may God's peace be with you."
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 47 When the woman saw that she could not hide what she had done, she came trembling. Falling down before Jesus, she declared in the presence of all the people the reason she had touched him and how she was healed immediately. \v 48 Then he said to her, "Daughter, your faith has made you well. Go in peace." </usfm>
+===== Target ULB: =====
+
+47 Quando a mulher viu que não poderia se esconder do que fez, ela veio tremendo, se prostrou aos pés de Jesus e declarou na presença de todos o motivo de ter tocado nele e como ela foi curada imediatamente. 48 Então ele disse a ela: “Filha, a sua fé te curou. Vá em paz.” 
+-----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:heal|healed]]
+  * [[:aoa:bible:notes:key-terms:faith|faith]]
+  * [[:aoa:bible:notes:key-terms:peace|peace]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Jesus continues to speak to the woman while on his way to heal Jairus' daughter.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a falar com a mulher enquanto ainda estava no caminho para ir curar a filha de Jairo).</font>
+  * **that she could not hide what she had done**  - "that she could not keep it a secret that she was the one who had touched Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** não poderia se esconder do que havia feito ** - "que ela não poderia manter em segredo que ela era aquela que havia tocado Jesus".</font>
+  * **in the presence**  - "in the sight of" or "in the hearing of" or "before"
+  * <font inherit/inherit;;#B22222;;inherit>** na presença ** - "à vista de" ou "na audiência de" ou "diante".</font>
+  * **falling down before Jesus**  - Possible meanings are 1) “she bowed down in front of Jesus” or 2) “she lay down on the ground at Jesus feet.” She did not fall accidentally. She did this as a sign of humility and respect for Jesus.
+  * <font inherit/inherit;;#B22222;;inherit>** se prostrando diante de Jesus ** - Possíveis significados: 1) "ela curvou-se em frente a Jesus" ou 2) "ela de deitou no chão aos pés de Jesus". Ela não caiu acidentalmente, ela fez isso como um sinal de humildade e respeito a Jesus.</font>
+  * **Daughter**  - This was a kind way of speaking to a woman. Your language may have another way of showing this kindness.
+  * <font inherit/inherit;;#B22222;;inherit>** filha  ** - Esta era uma maneira gentil de falar com a mulher. Sua língua deve ter uma outra maneira de mostrar este carinho.</font>
+  * **your faith has healed you**  - "because of your faith you have become well." The idea of “faith” can be translated with a verb: “Because you believe, you are healed.”
+  * <font inherit/inherit;;#B22222;;inherit>** sua fé te curou ** - "por causa da sua fé você ficou boa". A ideia de "fé" pode ser traduzida com um verbo: "Porque você creu, você está curada".</font>
+  * **go in peace**  - This is a way of saying “goodbye” and giving a blessing at the same time. It can be translated as “As you go, do not worry anymore” or “May God give you peace as you go” (UDB).
+  * <font inherit/inherit;;#B22222;;inherit>** vá em paz ** - Esta é uma maneira de dizer "adeus" e de abençoar ao mesmo tempo. Pode ser traduzido como: "Enquanto você vai, não se preocupe mais" ou "Que Deus te dê paz enquanto você vai".</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:08:45|<<]] | [[:aoa:bible:notes:luk:08:49|>>]]**
+
+~~DISCUSSION~~{{tag>draft heal faith }}
+
+~~NOCACHE~~

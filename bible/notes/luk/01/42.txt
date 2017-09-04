@@ -1,0 +1,60 @@
+====== Luke 01:42-45*F ======
+
+===== TFT: =====
+
+<usfm> \v 42 and she said loudly \add to Mary\add*, "\add God\add* has blessed you \add more than\add* he has blessed \add any other\add* woman, and \add he has\add* blessed the child you will bear! \v 43 I am not worthy that \add God would allow you\add* to visit me!\f + \ft Or: Why is \add God allowing you\add* to visit me? \f* \f + \ft rhetorical question \f* You will be the mother of my Lord! \v 44 \add I realize this because\add* as soon as I heard you greet me, the baby inside my womb leaped because he was so happy \add that you had come\add*! \v 45 \add God\add* is pleased with you \add because\add* you believed that what the Lord\f + \ft Or: God \f* told you would come true."
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 42 She exclaimed loudly to Mary, "God has blessed you more than he has blessed other women, and he has blessed the baby you will bear! \v 43 How wonderful it is that you, the mother of my Lord, should come to me! \v 44 As soon as I heard you greet me, the baby in my womb leaped because he was so happy that you had come! \v 45 You are blessed because you believed that what the Lord told you would come true."
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 42 She raised her voice with a loud exclamation, and said, "You are blessed among women, and the fruit of your womb is blessed. \v 43 How is it that the mother of my Lord should come to me? \v 44 For when the sound of your greeting came to my ears, the baby in my womb leaped for joy. \v 45 She who has believed is blessed, for the things which have been spoken to her from the Lord will be fulfilled." </usfm>
+
+===== Target ULB: =====
+
+42 Ela exclamou em alta voz, e disse: “Você é bendita entre todas as mulheres, e abençoado é o fruto do seu ventre . 43 Como é possível que a mãe do meu Senhor venha me visitar? 44 Assim que ouvi sua saudação , o bebê que carrego em meu ventre moveu-se de alegria. 45 Você é abençoada, pois acreditou no que o Senhor disse que iria se cumprir."
+
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:bless|bless]]
+  * [[:aoa:bible:notes:key-terms:lord|Lord]]
+  * [[:aoa:bible:notes:key-terms:joy|joy]]
+  * [[:aoa:bible:notes:key-terms:believe|believe]]
+  * [[:aoa:bible:notes:key-terms:fulfill|fulfill]]
+
+===== Translation Notes: =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **She**  – It may be more clear or more natural to say "Elizabeth" here, depending on how you translated the previous verse.
+  * <font inherit/inherit;;#B22222;;inherit>** ela ** - Talvez aqui fosse mais claro ou mais natural dizer "Isabel", dependendo de como você traduziu o verso anterior.</font>
+  * **the fruit of your womb**  - This could be translated as "the baby in your womb" or "the baby you will bear" (UDB). (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** o fruto do seu ventre ** - Isto pode ser traduzido como: "o bebê no seu ventre" ou "o bebê que você dará à luz" (UDB).</font>
+  * **How is it that the mother of my Lord should come to me?**  - This could be translated as "How wonderful it is that the mother of my Lord has come to me!" Elizabeth was not asking for information. Rather she was showing how surprised and happy she was that the mother of the Lord had come to her. (See: [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
+  * <font inherit/inherit;;#B22222;;inherit>** Como pode acontecer de a mãe do meu Senhor vir até mim? ** - Isto pode ser traduzido como: "Quão maravilhoso é que a mãe do meu Senhor venha a mim!". Isabel não estava pedindo informações, ela estava mostrando quão surpresa e feliz ela estava pelo fato de a mãe do Senhor ter ido até ela.</font>
+  * **the mother of my Lord**  - This could be translated as "you, the mother of my Lord" since this refers to Mary.
+  * <font inherit/inherit;;#B22222;;inherit>** a mãe do meu Senhor ** - Isto pode ser traduzido como: "você, a mãe do meu Senhor".</font>
+  * **leaped**  - "moved suddenly" or "turned forcefully"
+  * <font inherit/inherit;;#B22222;;inherit>** saltou ** - "moveu-se de repente" ou "virou-se vigorosamente".</font>
+  * **She who has believed is blessed**  - This could be translated as "You who have believed are blessed" or "Because you believed you will be glad."
+  * <font inherit/inherit;;#B22222;;inherit>** bem aventurada aquela que acreditou ** - Isto pode ser traduzido como: "bem aventurada é você que acreditou" ou "porque você acreditou, você será feliz".</font>
+  * **the things which have been spoken to her from the Lord**  - This could be translated as "the message from the Lord that was given to her" or "the things that the Lord told you."
+  * <font inherit/inherit;;#B22222;;inherit>** as coisas que foram faladas pelo Senhor a ela ** - Isto pode ser traduzido como: "a mensagem vinda do Senhor que foi dada a ela" ou "as coisas que o Senhor te contou".</font>
+
+===== Links: =====
+
+  * [[:aoa:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:aoa:bible:notes:luk:01:39|<<]] | [[:aoa:bible:notes:luk:01:46|>>]]**
+
+~~DISCUSSION~~{{tag>draft bless believe fulfill}}
+
+~~NOCACHE~~

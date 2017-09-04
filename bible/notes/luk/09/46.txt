@@ -1,0 +1,46 @@
+====== Luke 09:46-48/ *F ======
+
+===== TFT: =====
+
+<usfm> \v 46 The disciples began to argue among themselves about which one of them would be the greatest \add when Jesus became king\add*. \v 47 But Jesus perceived what they were thinking. So he brought a young child to his side. \v 48 He said to \add the disciples\add*, "Those who, because they\add love\add* me, \f + \ft Or: because they want to behave like me \f* welcome a little child \add like\add* this one\f + \ft Or: \add as\add* I \add would\add* \f* \f + \ft metonymy \f*\add , God considers that\add* \f + \ft metaphor \f* they are welcoming me. And those who welcome me, \add God considers\add* that \f + \ft metaphor \f* they are welcoming him, the one who sent me. Remember that those among you who think of themselves as being very unimportant will be the ones \add whom God considers\add* to be great."
+
+\p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 46 Sometime later, the disciples began to argue among themselves about which one of them would be the most important. \v 47 But Jesus knew what they were thinking, so he brought a young child to stand beside him. \v 48 He said to them, "If someone welcomes a little child like this because of me, it is the same as welcoming me. And if someone welcomes me, it is the same as welcoming God, who sent me. Remember that those among you who seem to be the least important are the ones whom God considers to be most important."
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 46 Then a dispute started among them about which one of them would be the greatest. \v 47 But when Jesus realized what they were reasoning in their hearts, he took a little child, and set him by his side, \v 48 and said to them, "If someone receives a little child like this in my name, he also is receiving me, and if someone receives me, he is also receiving the one who sent me. For the person who is least among all of you is the one who is great." </usfm>
+
+===== Target ULB: =====
+
+46 Então os discípulos começaram a discutir entre si sobre qual deles seria o maior. 47 Mas Jesus, sabendo o que eles estavam pensando em seus corações, pegou uma criancinha e a colocou ao seu lado, 48 e disse a eles: “Se alguém receber uma criancinha como esta em meu nome ele também me recebe, e se alguém me recebe ele também recebe aquele que me enviou. Pois o menor entre todos vocês, este que é o maior. 
+----
+
+===== Important Terms: =====
+
+  * [[:aoa:bible:notes:key-terms:jesus|Jesus]]
+  * [[:aoa:bible:notes:key-terms:name|in my name]]
+  * [[:aoa:bible:notes:key-terms:receive|receive]]
+
+===== Translation Notes: =====
+
+  * **among them**  - "among the disciples"
+  * <font inherit/inherit;;#B22222;;inherit>** entre eles ** - "entre os discípulos"</font>
+  * **reasoning in their hearts**  - "thinking about individually" or "considering in their private thoughts"
+  * <font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>** raciocinando em seus corações  ** - "pensando sobre individualmente</font> " ou "considerando em seus pensamentos particulares"
+  * **the one who sent me**  - "God, who sent me" (UDB)
+  * <font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>** aquele que me enviou ** - "Deus, que me enviou" (UDB)</font>
+
+===== Links: =====
+
+  * **[[:aoa:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:aoa:bible:notes:luk:09:43|<<]] | [[:aoa:bible:notes:luk:09:49|>>]]**
+
+~~DISCUSSION~~{{tag>draft disciple}}
+
+~~NOCACHE~~
